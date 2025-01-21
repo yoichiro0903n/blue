@@ -1,0 +1,2685 @@
+{
+   "categorySets": [
+      {
+         "name": "Cat_comment",
+         "taxonomy": {
+            "name": "RootCategory",
+            "subcats": [
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u65b0\u3057\u3044",
+                     "\u65b0\u3057\u3044\u56de\u7dda",
+                     "\u65b0\u3057\u3044\u756a\u53f7",
+                     "\u65b0\u3057\u3044\u96fb\u8a71",
+                     "\u65b0\u3057\u3044\u4f4f\u6240",
+                     "\u65b0\u3057\u3044\u7740\u66ff\u3048\u30d1\u30cd\u30eb",
+                     "\u65b0\u3057\u3044\u96fb\u8a71\u6a5f",
+                     "\u65b0\u3057\u3044\u30c7\u30b8\u30bf\u30eb\u30b5\u30fc\u30d3\u30b9",
+                     "\u65b0\u3057\u3044gsm"
+                  ],
+                  "name": "\u65b0\u3057\u3044"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u96fb\u8a71\u6a5f",
+                     "\u96fb\u8a71\u6a5f\u306e\u307b\u3046",
+                     "\u96fb\u8a71\u6a5f\u306e\u8abf\u5b50",
+                     "\u96fb\u8a71\u6a5f\u306e\u5168\u90e8",
+                     "\u96fb\u8a71\u6a5f\u306e\u6027\u80fd",
+                     "\u96fb\u8a71\u6a5f\u306e\u53d7\u4fe1"
+                  ],
+                  "name": "\u96fb\u8a71\u6a5f"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u30d0\u30c3\u30c6\u30ea\u30fc",
+                     "\u3068\u304a\u308a\u30d0\u30c3\u30c6\u30ea\u30fc",
+                     "\u3068\u3082\u30d0\u30c3\u30c6\u30ea\u30fc",
+                     "\u30d0\u30c3\u30c6\u30ea\u30fc\u306e\u8abf\u5b50",
+                     "\u30d0\u30c3\u30c6\u30ea\u30fc\u306e\u6027\u80fd",
+                     "\u4ed6\u306e\u30d0\u30c3\u30c6\u30ea\u30fc"
+                  ],
+                  "name": "\u30d0\u30c3\u30c6\u30ea\u30fc"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u5909\u66f4",
+                     "\u5909\u66f4\u65b9\u6cd5",
+                     "\u30d7\u30e9\u30f3\u306e\u5909\u66f4",
+                     "\u4f4f\u6240\u5909\u66f4"
+                  ],
+                  "name": "\u5909\u66f4"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u30b5\u30fc\u30d3\u30b9",
+                     "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30b5\u30fc\u30d3\u30b9",
+                     "\u540c\u3058\u30b5\u30fc\u30d3\u30b9",
+                     "\u3046\u3061\u306e\u30b5\u30fc\u30d3\u30b9"
+                  ],
+                  "name": "\u30b5\u30fc\u30d3\u30b9"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u96fb\u8a71",
+                     "\u55b6\u696d\u306e\u96fb\u8a71",
+                     "\u9593\u9055\u3044\u96fb\u8a71"
+                  ],
+                  "name": "\u96fb\u8a71"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u901a\u8a71",
+                     "\u7121\u6599\u901a\u8a71\u5206",
+                     "\u4ed6\u306e\u901a\u8a71"
+                  ],
+                  "name": "\u901a\u8a71"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u89e3\u7d04",
+                     "\u89e3\u7d04\u30bb\u30f3\u30bf\u30fc",
+                     "\u89e3\u7d04\u306e\u53ef\u80fd\u6027"
+                  ],
+                  "name": "\u89e3\u7d04"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u72b6\u6cc1",
+                     "\u4f7f\u7528\u72b6\u6cc1",
+                     "\u53d7\u4fe1\u72b6\u6cc1"
+                  ],
+                  "name": "\u72b6\u6cc1"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u5951\u7d04",
+                     "\u6628\u5e74\u306e\u5951\u7d04",
+                     "\u5951\u7d04\u671f\u9593"
+                  ],
+                  "name": "\u5951\u7d04"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u554f\u984c",
+                     "\u554f\u984c\u306a\u304b\u3063",
+                     "\u4e00\u756a\u306e\u554f\u984c"
+                  ],
+                  "name": "\u554f\u984c"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u307b\u3046",
+                     "\u4e16\u4ee3\u306e\u307b\u3046",
+                     "\u5927\u304d\u3044\u307b\u3046"
+                  ],
+                  "name": "\u307b\u3046"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u9023\u7d61",
+                     "\u9023\u7d61\u4e88\u5b9a"
+                  ],
+                  "name": "\u9023\u7d61"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u8cfc\u5165",
+                     "\u8cfc\u5165\u3067\u304d\u308b"
+                  ],
+                  "name": "\u8cfc\u5165"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u8acb\u6c42\u66f8",
+                     "\u8acb\u6c42\u66f8\u306e\u898b\u65b9"
+                  ],
+                  "name": "\u8acb\u6c42\u66f8"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u8abf\u5b50",
+                     "\u5145\u96fb\u5668\u306e\u8abf\u5b50"
+                  ],
+                  "name": "\u8abf\u5b50"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u8ab2\u91d1",
+                     "\u8ab2\u91d1\u30b7\u30b9\u30c6\u30e0"
+                  ],
+                  "name": "\u8ab2\u91d1"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u81ea\u5206",
+                     "\u81ea\u5206\u306e\u500b\u4eba\u60c5\u5831"
+                  ],
+                  "name": "\u81ea\u5206"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u805e\u3053\u3048",
+                     "\u805e\u3053\u3048\u306a\u3044"
+                  ],
+                  "name": "\u805e\u3053\u3048"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u72b6\u614b",
+                     "\u53d7\u4fe1\u72b6\u614b"
+                  ],
+                  "name": "\u72b6\u614b"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u6255\u3044",
+                     "\u6255\u3044\u623b\u3057"
+                  ],
+                  "name": "\u6255\u3044"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u5834\u6240",
+                     "\u3072\u3069\u3044\u5834\u6240"
+                  ],
+                  "name": "\u5834\u6240"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u56de\u7dda",
+                     "\u56de\u7dda\u8ffd\u52a0\u7533\u3057\u8fbc\u307f"
+                  ],
+                  "name": "\u56de\u7dda"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u55b6\u696d",
+                     "\u3044\u3064\u55b6\u696d\u62c5\u5f53"
+                  ],
+                  "name": "\u55b6\u696d"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u4f7f\u3048",
+                     "\u4f7f\u3048\u306a\u3044"
+                  ],
+                  "name": "\u4f7f\u3048"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u30ed\u30fc\u30df\u30f3\u30b0",
+                     "\u30ed\u30fc\u30df\u30f3\u30b0\u306e\u6709\u7121"
+                  ],
+                  "name": "\u30ed\u30fc\u30df\u30f3\u30b0"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u30d7\u30e9\u30f3",
+                     "\u5bb6\u65cf\u5272\u5f15\u30d7\u30e9\u30f3"
+                  ],
+                  "name": "\u30d7\u30e9\u30f3"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u30b5\u30dd\u30fc\u30c8",
+                     "\u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30dd\u30fc\u30c8"
+                  ],
+                  "name": "\u30b5\u30dd\u30fc\u30c8"
+               },
+               {
+                  "annotation": "21\/01\/25 11:45:18 Created from Create Categories By Linguistics",
+                  "descriptors": [
+                     "\u304a\u5ba2\u69d8",
+                     "\u304a\u5ba2\u69d8\u7a93\u53e3"
+                  ],
+                  "name": "\u304a\u5ba2\u69d8"
+               }
+            ]
+         }
+      }
+   ],
+   "label": "telecotest",
+   "language": "ja",
+   "name": "telecotest",
+   "template": {
+      "advancedResources": [
+         {
+            "childs": [
+               {
+                  "data": "",
+                  "name": "exceptionsFuzzyGrouping"
+               },
+               {
+                  "data": "",
+                  "name": "exceptionsInflectionGrouping"
+               }
+            ],
+            "name": "exceptions"
+         },
+         {
+            "childs": [
+               {
+                  "data": "#\n# RegExp.ini file\n#\n\n#**************************************************************\n# List of macros used by the regular expressions\n#**************************************************************\n\n[macros]\n\nJP_MONTH=($(JP_NUM)\u6708|$(JP_NUM)\u304c\u3064)\nJP_YEAR=($(JP_NUM)\u5e74|$(JP_NUM)\u306d\u3093)\nJP_DAY=($(JP_NUM)\u65e5|$(JP_NUM)\u306b\u3061)\nJP_HOUR=$(JP_NUM)\u6642\n\nJP_WEEKDAY=(\u65e5\u66dc\u65e5?|\u6708\u66dc\u65e5?|\u706b\u66dc\u65e5?|\u6c34\u66dc\u65e5?|\u6728\u66dc\u65e5?|\u91d1\u66dc\u65e5?|\u571f\u66dc\u65e5?|\u306b\u3061\u3088\u3046\u3073|\u3052\u3064\u3088\u3046\u3073|\u304b\u3088\u3046\u3073|\u3059\u3044\u3088\u3046\u3073|\u3082\u304f\u3088\u3046\u3073|\u304d\u3093\u3088\u3046\u3073|\u3069\u3088\u3046\u3073)\n\nJP_TIME=(\u65e5\u5206|\u6628\u65e5|\u660e\u65e5|\u4eca\u65e5|\u9031|\u65e5|\u6708|\u5e74|\u5b66\u671f|\u9031\u9593|\u660e\u5f8c\u65e5|\u30f6\u6708|\u304b\u6708|\u4e00\u6628\u65e5|\u304a\u3068\u3068\u3044|\u304d\u306e\u3046|\u304d\u3087\u3046|\u3042\u3057\u305f|\u3042\u3055\u3063\u3066|\u5e73\u65e5|\u6cca|\u534a\u5e74)\n\nJP_TIME_ADJ=(\u5148|\u6765|\u53bb|\u5148\u9031\u306e|\u6628)\nJP_TIME_PREP=(\u304b\u3089|\u4ee5\u6765|\u307e\u3067)\nJP_DAY_PART=(\u4eca\u671d|\u4eca\u671d|\u5348\u5f8c|\u4eca\u6669|\u671d|\u5348\u5f8c|\u5915\u65b9|\u591c|\u6669|\u3042\u3055|\u3088\u308b|\u3054\u3054|\u3070\u3093|\u3070\u3093|\u3051\u3055|\u3054\u3054|\u3053\u3093\u3070\u3093)\n\nJP_HOLIDAY=(\u30af\u30ea\u30b9\u30de\u30b9|\u30a4\u30fc\u30b9\u30bf\u30fc|\u5927\u6666\u65e5|\u6b63\u6708|\u6210\u4eba\u306e\u65e5|\u6b63\u6708|\u6b63\u6708|\u6210\u4eba\u306e\u65e5|\u7bc0\u5206|\u5efa\u56fd\u8a18\u5ff5\u65e5|\u5929\u7687\u306e\u8a95\u751f|\u3072\u306a\u796d\u308a|\u6625\u5206\u306e\u65e5|\u662d\u548c\u306e\u65e5|\u62f3\u6cd5\u8a18\u5ff5\u65e5|\u307f\u3069\u308a\u306e\u65e5|\u3053\u3069\u3082\u306e\u65e5|\u4e03\u5915|\u6d77\u306e\u65e5|\u5c71\u306e\u65e5|\u656c\u8001\u306e\u65e5|\u4fee\u5206\u306e\u65e5|\u4f53\u80b2\u306e\u65e5|\u6587\u5316\u306e\u65e5|\u4e03\u4e94\u4e09|\u52e4\u52b4\u611f\u8b1d\u306e\u65e5|\u304a\u307f\u305d\u304b|\u5e74\u672b\u5e74\u59cb)(\u306e\u6642\u671f)?\n\nALL_NUM=($(JP_NUM)|$(NUM)|$(NUM)$(JP_NUM))\nJP_NUM=($(JP_NUM_HW)|$(JP_CARD))\nJP_NUM_HW=(0|1|2|3|4|5|6|7|8|9)(0|1|2|3|4|5|6|7|8|9)*(\u5104|\u3064)?\nJP_CARD=(\u96f6|\u4e00\u3064|\u4e00|\u4e8c|\u4e09|\u56db|\u4e94|\u516d|\u4e03|\u516b|\u4e5d|\u5341|\u767e|\u5343|\u4e07)(\u96f6|\u4e00|\u4e8c|\u4e09|\u56db|\u4e94|\u516d|\u4e03|\u516b|\u4e5d|\u5341|\u767e|\u5343|\u4e07)*\u5104?\nNUM=[0-9]{1,3}([.,]?[0-9]{3})*([.,]?[0-9]+)?\nPERCENT=(\u30d1\u30fc\u30bb\u30f3\u30c8|\u30d1\u30fc\u30bb\u30f3|%)\nJP_FREQ=($(ALL_NUM)\u5ea6|$(ALL_NUM)\u56de)(\u7a0b\u5ea6)?\n\n# 30\u5104 (3 billion)\n# 300\u5104 (30 billion)\n\n### For currencies\nCUR_SYMB=(\u30c9\u30eb|\u30e6\u30fc\u30ed|\u5186|\u5143|\u00a3|\u20ac|\u00a5|\u00a2|\\$|krw|\u30d0\u30fc\u30c4|\u53f0\u6e7e\u30c9\u30eb|\u53f0\u6e7e|[\u00a3\u20ac\u00a5\u00a2$])\n\n### For time sequences\nAM_PM=(\u5348\u5f8c|\u5348\u524d|\u671d|\u591c)\nHOUR=(0*0|0*1|0*2|0*3|0*4|0*5|0*6|0*7|0*8|0*9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24)\nDAY=(30|31|([012]?[0-9]|[0-9])(st|nd|rd|th)?)\nDMONTH=(0?1|0?2|0?3|0?4|0?5|0?6|0?7|0?8|0?9|10|11|12)\nYEAR=([12][0-9]{3}|[0-9]{2})\nJP_SEASON=(\u30b5\u30de\u30fc\u30bf\u30a4\u30e0|\u51ac|\u6625|\u590f|\u79cb)(\u306e?\u6642\u9593)?\n\n### For weights and measures\nW_A_M=($(BYTE)|$(METER)|$(LITER)|$(GRAM)|$(HERTZ))\n\nBYTE=(\u30ad\u30ed\u30d0\u30a4\u30c8|\u30c6\u30e9\u30d0\u30a4\u30c8|\u30ae\u30ac\u30d0\u30a4\u30c8|\u30e1\u30ac\u30d0\u30a4\u30c8|\u30d0\u30a4\u30c8|tb|kb|gb|b)\n\nMETER=(\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb|\u30c7\u30b7\u30e1\u30fc\u30c8\u30eb|\u30df\u30ea\u30e1\u30fc\u30c8\u30eb|\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb|\u5e73\u65b9\u30e1\u30fc\u30c8\u30eb|\u30e1\u30fc\u30bf\u30fc|\u30e4\u30fc\u30c9|\u30de\u30a4\u30eb|\u30a4\u30f3\u30c1|\u30d5\u30a3\u30fc\u30c8|\u30aa\u30f3\u30b9|\u30e1\u30fc\u30c8\u30eb|km|m2|m)\n\nLITER=(\u30df\u30ea\u30ea\u30c3\u30c8\u30eb|\u30bb\u30f3\u30c1\u30ea\u30c3\u30c8\u30eb|\u30c7\u30ab\u30ea\u30c3\u30c8\u30eb|\u30ea\u30c3\u30c8\u30eb|\u30ac\u30ed\u30f3|\u30d1\u30a4\u30f3\u30c8)\n\nGRAM=(\u30c8\u30f3|\u30ad\u30ed\u30b0\u30e9\u30e0|\u30df\u30ea\u30b0\u30e9\u30e0|\u30de\u30a4\u30af\u30ed\u30b0\u30e9\u30e0|\u30b0\u30e9\u30e0)\n\nHERTZ=(\u30e1\u30ac\u30d8\u30eb\u30c4|\u30ad\u30ed\u30d8\u30eb\u30c4|\u30d8\u30eb\u30c4)\n\n\n#**************************************************************\n#\tDATE\n#**************************************************************\n[Date]\n\n#@# 1967\u5e741\u670828\u65e5\u6708\u66dc\u65e5 (Monday 28 January 1967)\nregexp=$(JP_YEAR)$(JP_MONTH)$(JP_DAY)$(JP_WEEKDAY)\n\n#@# 1967\u5e741\u670828\u65e5 (January 28, 1967)\nregexp=$(JP_YEAR)$(JP_MONTH)$(JP_DAY)\n\n#@# 1967\u5e741\u6708 (January 1967)\u00a0\nregexp=$(JP_YEAR)$(JP_MONTH)\n\n#@# 1\u670827\u65e5\u706b\u66dc\u65e5\u00a0(Tuesday 27th January)\nregexp=$(JP_MONTH)$(JP_DAY)$(JP_WEEKDAY)\n\n#@# 7\u67085\u65e5 (fifth of July)\nregexp=$(JP_MONTH)$(JP_DAY)\n\n#@# \u6708\u66dc\u65e528\u65e5 (Monday 28)\nregexp=$(JP_WEEKDAY)$(JP_DAY)\n\n#@# 1\u6708\u4e2d\u65ec (mid January)\nregexp=$(JP_MONTH)\u4e2d\u65ec\nregexp=(mid[ -])?$(FULL_MONTH)\n\n#@# 10\u6708\u672b (late October)\nregexp=$(JP_MONTH)\u672b\n\n#@# 10\u6708\u4e0a\u65ec (early October)\nregexp=$(JP_MONTH)\u4e0a\u65ec\n\n#@# \u6765\u5e741\u6708 (next January)\nregexp=(\u6765\u5e74)$(JP_MONTH)\n\n#@# \u6765\u5e741\u6708 (last January)\nregexp=(\u6628\u5e74\u306e)$(JP_MONTH)\n\n# \u6765\u5e747\u6708 (July next year)\nregexp=$(JP_TIME_ADJ)\u5e74$(JP_MONTH)\n\n# \u6765\u6708\u306e11\u65e5 (the 11th of next month)\nregexp=$(JP_TIME_ADJ)$(JP_TIME)\u306e$(JP_DAY)\n\n#@# 60\u5e74\u4ee3\u5f8c\u534a\u306b (in the late 60's)\nregexp=$(JP_YEAR)\u4ee3(\u5f8c\u534a)\u306b?\n\n#@# 60\u5e74\u4ee3\u521d\u982d\u306b (in the early 60's)\nregexp=$(JP_YEAR)\u4ee3(\u521d\u982d)\u306b?\n\n#@# 60\u5e74\u4ee3\u306b (in the  60's)\nregexp=$(JP_YEAR)\u4ee3\u306b\n\n#@# 1975\u304b\u3089 (since 1975)\nregexp=$(JP_NUM_HW)$(JP_TIME_PREP)\n\n#@# 1975\u5e74\u4ee5\u6765 (since 1975)\nregexp=$(JP_YEAR)$(JP_TIME_PREP)\n\n#@# 12\u4e16\u7d00 (12th century)\nregexp=$(ALL_NUM)\u4e16\u7d00\n\n#@# 1967\u5e74 (1967)\nregexp=$(JP_YEAR)\n\n#@# 1\u6708 (January)\nregexp=$(JP_MONTH)\n\n\n#**************************************************************\n#\tRefTime\n#**************************************************************\n[RefTime]\n\n#@# \u6c34\u66dc\u65e5\u306e\u671d\u304b\u3089\u571f\u66dc\u65e5\u306e\u671d\u307e\u3067 (from Wednesday morning until Saturday morning)\nregexp=$(JP_WEEKDAY)\u306e$(JP_DAY_PART)$(JP_TIME_PREP)$(JP_WEEKDAY)\u306e$(JP_DAY_PART)$(JP_TIME_PREP)\n\n# \u6c34\u66dc\u65e5\u306e\u671d\u304b\u3089 (from Wednesday morning)\nregexp=$(JP_WEEKDAY)\u306e$(JP_DAY_PART)$(JP_TIME_PREP)\n\n#@# \u571f\u66dc\u65e5\u306e\u671d\u307e\u3067 (until Saturday morning)\nregexp=$(JP_WEEKDAY)\u306e$(JP_DAY_PART)\u307e\u3067\n\n#@# \u6708\u66dc\u65e5\u304b\u3089\u6728\u66dc\u65e5\u307e\u3067 (from Monday to Thursday)\nregexp=$(JP_WEEKDAY)$(JP_TIME_PREP)$(JP_WEEKDAY)$(JP_TIME_PREP)\n\n#@# \u5148\u9031\u306e\u6708\u66dc\u65e5\u306e\u671d (last Monday morning)\nregexp=\u5148\u9031\u306e$(JP_WEEKDAY)\u306e$(JP_DAY_PART)\n\n#@# \u5148\u9031  (since last week)\nregexp=$(JP_TIME_ADJ)$(JP_TIME)\u304b\u3089\n\n#@# \u5148\u9031  (last week)\nregexp=$(JP_TIME_ADJ)$(JP_TIME)\n\n#@# \u6628\u65e5\u306e\u5348\u5f8c (yesterday afternoon) \/\/ \/\/ \u6628\u65e5\u306e\u671d\u00a0yesterday morning \/\/ \u6628\u65e5\u306e\u591c\u00a0yesterday night\nregexp=$(JP_TIME)\u306e$(JP_DAY_PART)\n\n#@# \u904e\u53bb\u6570\u30f6\u6708\u306b\u308f\u305f\u3063\u3066 (over the past few months) \/\/ \u904e\u53bb\u6570\u9031\u9593\u306b\u308f\u305f\u3063\u3066 (over the past few weeks)\nregexp=(\u904e\u53bb\u6570\u30f6|\u904e\u53bb\u6570)$(JP_TIME)\u306b\u308f\u305f\u3063\u3066\n\n#@# \u3053\u3053\u6570\u30f6\u6708\u3067 (in the last few months) \/\/ \u3053\u3053\u6570\u5e74\u3067 (in the last few years) \/\/ \u3053\u3053\u6570\u9031\u9593\u3067 (in the last few weeks)\nregexp=\u3053\u3053\u6570\u30f6?$(JP_TIME)\u3067\n\n#@# \u6700\u8fd1\u6570\u65e5\u306e\u9593\u306b (in the last few days)\nregexp=\u6700\u8fd1\u6570$(JP_TIME)\u306e\u9593\u306b\n\n\n#@# \u3053\u306e2\u5e74\u9593\u306f (for the past two years)\nregexp=\u3053\u306e$(ALL_NUM)$(JP_TIME)\u9593\u306f\n\n#@# \u3053\u3053\u6570\u30f6\u6708 (the last few months)\nregexp=\u3053\u3053\u6570\u30f6?$(JP_TIME)\n\n#@# \u4eca\u5f8c\u6570\u5e74\u4ee5\u5185\u306b (in the next few years)\nregexp=\u4eca\u5f8c\u6570\u304b?$(JP_TIME)\u4ee5\u5185\u306b\n\n#@# \u6570\u65e5\u4ee5\u5185\u306b (in the next few days)\nregexp=\u6570$(JP_TIME)\u4ee5\u5185\u306b\n\n#@# \u5148\u9031\u306e\u91d1\u66dc\u65e5\u304b\u3089 (since last Friday)\nregexp=\u5148\u9031\u306e$(JP_WEEKDAY)\u304b\u3089\n\n#@# \u6628\u5e74\u306e1\u6708\u4ee5\u6765 (since last January)\nregexp=\u6628\u5e74\u306e$(JP_MONTH)\u4ee5\u6765\n\n#@# \u53bb\u5e74\u304b\u3089 (since last year)\nregexp=\u53bb$(JP_TIME)\u304b\u3089\nregexp=\u6628\u5e74\u304b\u3089\n#@# \u4e00\u65e5\u306e\u7d42\u308f\u308a\u306b (at the end of the day)\nregexp=\u4e00\u65e5\u306e\u7d42\u308f\u308a\u306b\n\n#@#\t\u534a\u5e74\u5185 (Within half a year)\nregexp=$(JP_TIME)\u5185\n\n#@# \u4e00\u65e5\u4e2d (all day long)\nregexp=\u4e00\u65e5\u4e2d\n\n#@# \u6b63\u5348 (noon) \/\/ \u591c\u4e2d (midnight)\nregexp=(\u6b63\u5348|\u591c\u4e2d)\n\n#@#  \u4eca\u9031 (this week) \/\/ \u4eca\u6708 (this month) \/\/ \u4eca\u5e74 (this year)\nregexp= \u4eca$(JP_TIME)\n\n#@# \u6bce\u9031\u6bce\u9031 (week after week)\nregexp=\u6bce$(JP_TIME)\u6bce$(JP_TIME)\n\n#@# \u9031\u672b (week-end) during the weekend\nregexp=\u9031\u672b\n\n#@# 2~30\u5206\u524d\nregexp=$(ALL_NUM)~$(ALL_NUM)\u5206(\u5f8c|\u524d)\u306b?\n\n#@# 30\u5206\u5f8c\u306b (half an hour later) \/\/ 30\u5206\u524d\u306b (half an hour earlier)\nregexp=30\u5206(\u5f8c|\u524d)\u306b?\n\n#@# 1\u30f6\u6708\u524d (a month earlier) \/\/ \u4e00\u30f6\u6708\u5f8c (a month later)\nregexp=$(JP_NUM)$(JP_TIME)(\u524d|\u5f8c)\n\n#@# 2\u65e5\u524d (2 days ago)\nregexp=$(JP_NUM)$(JP_DAY)\u524d\n\n#@# \u6570\u65e5\u524d (days ago) \/\/ \u6570\u304b\u6708\u524d (months ago) \/\/ \u6570\u5e74\u524d (years ago)\nregexp=\u6570\u304b?$(JP_TIME)\u524d\n\n#@# \u4f55\u9031\u9593\u524d (weeks ago)\nregexp=\u4f55\u9031\u9593\u524d\n\n#@#\t15\u5206\/15\u5206\u524d\nregexp=$(JP_NUM)\u5206(\u524d)?\n\n#@# \u305d\u306e\u65e5\u306e\u3046\u3061\u306b (within the same day)\nregexp=\u305d\u306e\u65e5\u306e\u3046\u3061\u306b\n\n#@# \u540c\u3058\u9031\u4ee5\u5185\u306b (within the same week)\nregexp=\u540c\u3058\u9031\u4ee5\u5185\u306b\n\n#@# \u540c\u6708\u4ee5\u5185\u306b (within the same month)\nregexp=\u540c\u6708\u4ee5\u5185\u306b\n\n#@# \u540c\u3058\u5e74\u4ee5\u5185\u306b (within the same year)\nregexp=\u540c\u3058\u5e74\u4ee5\u5185\u306b\n\n#@# \u6628\u5e74\u306e\u5927\u6666\u65e5 (last year's Eve)\nregexp=$(JP_TIME_ADJ)$(JP_TIME)\u306e?$(JP_HOLIDAY)\n\n#@# \u30af\u30ea\u30b9\u30de\u30b9\u306e\u6642\u671f\u306b (at Christmas time) \/\/ \u30a4\u30fc\u30b9\u30bf\u30fc\u306e\u6642\u671f\u306b (at Easter time)\nregexp=$(JP_HOLIDAY)\u306b\n\n#@# \u30af\u30ea\u30b9\u30de\u30b9 (Christmas) \/\/ \u30a4\u30fc\u30b9\u30bf\u30fc (Easter)\nregexp=$(JP_HOLIDAY)\n\n#@# \u6708\u66dc\u65e5\u306e\u671d (Monday morning)\nregexp=$(JP_WEEKDAY)\u306e$(JP_DAY_PART)?\n\n#@# \u5348\u524d\u4e2d\u306b (in the morning)\nregexp=\u5348\u524d\u4e2d\u306b\n\n#@# \u5348\u5f8c\u306b (in the afternoon)\nregexp=\u5348\u5f8c\u306b\n\n#@# \u591c\u306b (in the night)\nregexp=\u591c\u306b\n\n#@# \u6628\u65e5 (yesterday)\nregexp=$(JP_TIME)\n\n#@# \u6708\u66dc\u65e5 (Monday)\nregexp=$(JP_WEEKDAY)\n\n#@# \u671d (morning)\nregexp=$(JP_DAY_PART)\n\n#@#  \u6bce\u65e5 (every day) \/\/ \u6bce\u9031 (every week) \/\/ \u6bce\u6708 (every month) \/\/ \u6bce\u5e74 (every year)\nregexp= \u6bce$(JP_TIME)\n\n#@# \u6bce\u5e74\u590f (every Summer)\nregexp=\u6bce\u5e74$(JP_SEASON)\n\n#@# \u6628\u5e74\u590f (last Summer) \/\/ \u6628\u5e74\u306e\u79cb (last Fall)\nregexp=(\u6628\u5e74|\u6628\u5e74\u306e)$(JP_SEASON)\n\n#@# \u590f (Summer)\nregexp=$(JP_SEASON)\n\n#@# 1\u65e5\u76ee (on the first day)\nregexp=$(ALL_NUM)$(JP_TIME)\u76ee\n\n#@# 2\u5ea6\u76ee (second time)\nregexp=$(ALL_NUM)\u5ea6\u76ee\n\n#@# \u524d\u5e74 (last year)\nregexp=\u524d$(JP_TIME)\n\n\n#**************************************************************\n#\tDURATION\n#**************************************************************\n[Duration]\n\n#@# \u5e74\u959350\u6cca (50 nights per year)\nregexp=\u5e74\u9593$(JP_NUM)$(JP_TIME)\n\n#@# 2\u9031\u9593\u534a (two and a half weeks, two & a half week)\n#@# 2\u5e74\u534a (two and a half year)\n#@# 2\u30f6\u6708\u534a (two and a half month)\n\n#@# 24\uff5e48\u6642\u9593 (24-48 hours) \/\/ 3\uff5e5\u65e5 (3 to 5 days)\nregexp=$(JP_NUM_HW)[\uff5e-]$(JP_NUM_HW)$(JP_TIME)\n\n#@#  2\u6642\u9593\u4ee5\u5185 (within 2 hours)\nregexp=$(JP_NUM_HW)$(JP_TIME)(\u4ee5\u5185|\u4ee5\u5185\u306b)\n\n#@# 3\u6642\u3058\u9593\u304b\u309320\u5206  (during 3 hours 20 minutes)\nregexp=$(JP_HOUR)\u3058\u9593\u304b\u3093$(JP_NUM)\u5206\n\n#@# \u4e09\u65e5\u9593 (during 3 days) \/\/ \u516b\u6642\u9593 (during eight hours)\nregexp=$(JP_NUM)(\u5206|\u65e5|\u30f6\u6708|\u304b\u6708|\u6708|\u5e74|\u6642|\u9031)(\u9593\u306e\u9593\u306b|\u9593)\n\n#@# \u4e8c\u304b\u6708 (during 2 months)\nregexp=$(JP_NUM)\u304b\u6708\n\n#@# 2\u6642\u959315\u5206 (two hours and a quarter)\nregexp=$(JP_NUM_HW)$(JP_TIME)$(JP_NUM)\u5206\n\n#@# 1\u6642\u9593\u534a (one hour and half\/ one and half an hour)\nregexp=$(JP_NUM_HW)$(JP_TIME)\u534a\n\n#@# 1\u30f6\u6708\u304b2\u30f6\u6708\u306e\u9593 (for a month or 2)\nregexp=$(JP_NUM_HW)$(JP_TIME)\u304b$(JP_NUM_HW)$(JP_TIME)(\u306e\u9593)?\n\n#@# 4\u6642\u9593 (4 hours) \/\/ 30\u5206 (half an hour\/ 30 minutes)\nregexp=$(JP_NUM_HW)(\u5206|\u65e5|\u30f6\u6708|\u6708|\u5e74|\u6642|\u9031)\u9593\n\n#@# \u6570\u65e5 (several days) \/\/ \u6570\u9031\u9593 (a few weeks)\nregexp=\u6570$(JP_TIME)(\u307b\u3069)?\n\n#@# 2\u65e5\u5206 (2 days)\nregexp=$(ALL_NUM)$(JP_TIME)(\u307b\u3069)?\n\n#**************************************************************\n#\tFREQUENCY\n#**************************************************************\n[Frequency]\n\n#@# 1\u65e52\u56de (twice a day)\nregexp=$(ALL_NUM)$(JP_TIME)\u306b?$(JP_FREQ)\n\n#@# \u9031\u306b\u4e00\u5ea6 (once a week)\nregexp=$(JP_TIME)\u306b?$(JP_FREQ)\n\n#@#\u6708\u306b4~8\u6cca (4-8 nights a month)\nregexp=\u6708\u306b$(ALL_NUM)~$(ALL_NUM)\u6cca\u7a0b?\n\n#@# 2,3\u5ea6\u3057\u304b (only a few times)\nregexp=2,3\u5ea6\u3057\u304b\nregexp=2\u30013\u5ea6\u3057\u304b\n\n#@#\u4e00\u5ea6 (once)\nregexp=$(JP_FREQ)\n\n\n#**************************************************************\n#\tAGE\n#**************************************************************\n[Age]\n\n#@# 3\u6b73\u534a (3 and half year old)\nregexp=$(ALL_NUM)\u6b73\u534a\n\n#@# 3\u6b73 (3 years old)\nregexp=$(ALL_NUM)(\u6b73|\u6b73\u3067\u3059)\n\n#@# 30\u4ee3\u30e1 (30s)30\u4ee3\u30e1\nregexp=$(ALL_NUM)\u4ee3\u30e1\nregepx=30\u4ee3\u30e1\n#**************************************************************\n#\tORGANIZATION\n#**************************************************************\n[Organization]\n\n# ibm.com\nregexp=[a-z][a-z]+\\.(com|net)\n\n#**************************************************************\n# \tURL\n#**************************************************************\n[url]\n\n#@# http:\/\/www.spss.com\n#@# www.spss.com\n#@# ftp:\/\/www.spss.com\nregexp=(((https?|ftp|file|news):\\\/\\\/)|((www|ftp)\\.))[a-z0-9\/~:@=+?,#%&_.\\-|]+[a-z0-9\/~\\-]+\n\n#**************************************************************\n#\tEMAIL\n#**************************************************************\n[email]\n\n#@# anything@anything.whatever.etc\nregexp=[a-z0-9][a-z0-9._-]+@([a-z0-9_-]+\\.)+[a-z0-9]+\nregexp=[\\x3041-\\x3096]+@([a-z0-9_-]+\\.)+[a-z0-9]+\n\nregexp=.+[a-z0-9]+\n\n#**************************************************************\n#\tPHONE NUMBER\n#**************************************************************\n[PhoneNumber]\n\n#@# (703) 740-2440, 866-854-2507\nregexp=\\(?[0-9]{3}\\)?[ -][0-9]{3}[ -][0-9]{4}\n\n#@# +44 208 288 4433\nregexp=[+]?[0-9]{2}[ -][0-9]{3}[ -][0-9]{3}[ -][0-9]{4}\n\n#@# +44 (0)7785 444650\nregexp=[+]?[0-9]{2}[ -]\\(0\\)[0-9]{4}[ -][0-9]{6}\n\n#@# +1 3343233033 or +1.334.323.3033\nregexp=[+][0-9][ .-][0-9]{3}[ .-]?[0-9]{3}[ .-]?[0-9]{4}\n\n#**************************************************************\n#\tSOCIAL SECURITY NUMBER\n#**************************************************************\n[SocialSecurityNumber]\n\n# 1234 5678 9012 \/\/  1234-5678-9012 \/\/  123456789012\nregexp=[0-9]{4}[ -]?[0-9]{4}[ -]?[0-9]{4}\n\n#**************************************************************\n#\tTIME\n#**************************************************************\n[Time]\n\n#@# \u5348\u524d6\u664234\u520628\u79d2\u304b\u3089\u5348\u5f8c5\u6642\u307e\u3067 (from 06:34:28 a.m. to 5 pm)\nregexp=$(AM_PM)$(JP_NUM)\u6642$(JP_NUM)\u5206($(JP_NUM)\u79d2)?\u304b\u3089$(AM_PM)$(JP_NUM)\u6642($(JP_NUM)\u5206)?($(JP_NUM)\u79d2)?\u307e\u3067\n\n#@# \u5348\u524d5\u6642\u304b\u3089\u5348\u5f8c6\u6642\u307e\u3067 (from 5 AM to 6 PM)\nregexp=$(AM_PM)$(JP_NUM)\u6642\u304b\u3089$(AM_PM)$(JP_NUM)\u6642\u307e\u3067\n\n#@# 5\u6642\u304b\u30896\u6642\u307e\u3067 (from five to six o'clock)\nregexp=$(JP_NUM)\u6642\u304b\u3089$(JP_NUM)\u6642\u307e\u3067\n\n#@# \u5348\u524d6\u664234\u520628\u79d2 (06.34.28 a.m.)\nregexp=$(AM_PM)$(JP_NUM)\u6642$(JP_NUM)\u5206($(JP_NUM)\u79d2)?\n\n#@# 6\u664234\u520628\u79d2 (06.34.28)\nregexp=$(JP_NUM)\u6642$(JP_NUM)\u5206($(JP_NUM)\u79d2)?\n\n#@# \u4e94\u6642\u4e8c\u5341\u5206\u307e\u3048\u3067\u3059 \/\/ 5\u664220\u5206\u307e\u3048\u3067\u3059 (it's twenty to five)\nregexp=$(JP_HOUR)$(JP_NUM)\u5206\u307e\u3048\u3067\u3059\n\n#@# \u5348\u524d9\u664225\u5206\u3067\u3059 (it's 9:25 am) \/\/ \u5348\u5f8c9\u664225\u5206\u3067\u3059 (it's 9:25 pm)\nregexp=$(AM_PM)$(JP_HOUR)$(JP_NUM)\u5206\u3067\u3059\n\n#@# \u4e5d\u6642\u4e8c\u5341\u4e94\u5206\u3067\u3059 \/\/ 9\u664225\u5206\u3067\u3059 (it's 25 past 9)\nregexp=$(JP_HOUR)$(JP_NUM)\u5206\u3067\u3059\n\n#@# \u5348\u5f8c4\u6642 (4 pm) \/\/ \u5348\u524d4\u6642 (4 am)\nregexp=$(AM_PM)$(JP_NUM)\u6642\u9803?\n\n#@# 4\u6642 \/\/ \u56db\u6642 (4 o'clock)\nregexp=$(JP_NUM)\u6642\u9803?\n\n#@# \u671d6\u6642\u534a\u304b\u3089\u591c9\u6642\u307e\u3067 (from 6:30 am to 9 pm)\nregexp=$(AM_PM)$(JP_NUM)\u6642\u534a?(\u304b\u3089)$(AM_PM)$(JP_NUM)\u6642\u534a?(\u307e\u3067)\n\n#@# \u671d6\u6642\u304b\u3089 (from 6 a.m.)\nregexp=$(AM_PM)$(JP_NUM)\u6642\u534a?\u304b\u3089\n\n#@# \u671d6\u6642\u534a (6:30 am) \/\/ \u591c9\u6642 (9 pm)\nregexp=$(AM_PM)$(JP_NUM)\u6642\u534a?\n\n#**************************************************************\n#\tDigit\n#**************************************************************\n[Digit]\n\nregexp=$(ALL_NUM)\u8fd1?\n\n#**************************************************************\n# \tUsername\n#**************************************************************\n[UserName]\n\n#@# @IBM\nregexp=@[a-z0-9][a-z0-9_]+\n\n#**************************************************************\n# \tHashtag\n#**************************************************************\n[Hashtag]\n\n#@# #\u672c (#Book) \/\/ #\u672c\u597d\u304d\u306a\u4eba\u3068\u7e4b\u304c\u308a\u305f\u3044 (#I want to connect with people who love books)\nregexp=#[\u4e00-\u9faf\u3041-\u3093\u30a1-\u30f3]+\nregexp=#[a-z0-9][a-z0-9_]+\n\n#**************************************************************\n#\tCURRENCY\n#**************************************************************\n[Currency]\n\n# 1\u65e5\u3042\u305f\u308a (per day) \/\/ 1\u6cca (per night)\n# 1\u9031\u9593\u3042\u305f\u308a (per week) \/\/ \u6708\u984d (per month) \/\/ \u5e74\u9593 (per year)\n# 1\u5b66\u671f\u3042\u305f\u308a (per semester) \/\/ \u56db\u534a\u671f\u3042\u305f\u308a (per quarter)\n\n#@# 1\u6cca30\u30c9\u30eb (30 dollars per night)\nregexp=(1\u65e5|1\u6cca|1\u65e5\u3042\u305f\u308a|1\u9031\u9593\u3042\u305f\u308a|\u6708\u984d|\u5e74\u9593|1\u5b66\u671f\u3042\u305f\u308a|\u56db\u534a\u671f\u3042\u305f\u308a)$(ALL_NUM)$(CUR_SYMB)\n\n#@# 500\u5186\/1\u65e5 (500 yen\/day)\nregexp=$(ALL_NUM)$(ALL_NUM)?$(CUR_SYMB)[\/](1\u65e5|1\u6cca|1\u65e5\u3042\u305f\u308a|1\u9031\u9593\u3042\u305f\u308a|\u6708\u984d|\u5e74\u9593|1\u5b66\u671f\u3042\u305f\u308a|\u56db\u534a\u671f\u3042\u305f\u308a)\n\n#@# 200\u5186~500\u5186 (200 yen ~ 500 yen)\nregexp=$(ALL_NUM)$(ALL_NUM)?$(CUR_SYMB)~$(ALL_NUM)$(ALL_NUM)?$(CUR_SYMB)\n\n#@# \u6570\u767e\u5186 (a few hundreds yens)\nregexp=\u6570$(ALL_NUM)$(ALL_NUM)?$(CUR_SYMB)\n\n#@# 4\u767e\u6570\u5341\u5186 (extra 400 yens)\nregexp=$(ALL_NUM)$(ALL_NUM)?\u6570$(ALL_NUM)?$(CUR_SYMB)\n\n#@# 5\u4e07\u5186 (50,000 yen) \/\/ 200\u30c9\u30eb ($200)\nregexp=$(ALL_NUM)$(ALL_NUM)?$(CUR_SYMB)(\u524d\u5f8c)?\n\n#**************************************************************\n#\tPERCENT\n#**************************************************************\n[Percent]\n\n#@# 10\u30d1\u30fc\u30bb\u30f3\u30c8 (10%) \/\/ \u4e8c\u30d1\u30fc\u30bb\u30f3\u30c8 (2.5%)\nregexp=\\.?($(JP_NUM)|$(NUM)|$(CARD))[ -]?(%|$(PERCENT))\n\n#**************************************************************\n#\tWeights and measures\n#**************************************************************\n[Weights_Measures]\n\n#@# 256\/512k\nregexp=$(ALL_NUM)[\/-]$(ALL_NUM)$(W_A_M)\n\n#@# 40\u30ae\u30ac\u30d0\u30a4\u30c8 (40 gigabytes) \/\/ 512k\nregexp=$(ALL_NUM)[ ]?$(W_A_M)(\u4ee5\u5185)?\n\n#@# \u9577\u305525\u30e1\u30fc\u30c8\u30eb (25 meters long)\nregexp=\u9577\u3055$(ALL_NUM)$(W_A_M)\n\n#@# 25\u30e1\u30fc\u30c8\u30eb (25 meters)\nregexp=$(ALL_NUM)$(W_A_M)\n\n\n#**************************************************************\n#\tDistance\n#**************************************************************\n[Distance]\n\n#@# \u99c5\u304b\u3089\u306f2\u30d6\u30ed\u30c3\u30af\u3067\u5f92\u6b69\u570f\u5185\u3067\u3059 (It is within walking distance of 2 blocks from the station.)\nregexp=$(ALL_NUM)(\u30d6\u30ed\u30c3\u30af|\u99c5|$(METER))(\u4ee5\u5185|\u570f\u5185)?\n\n#**************************************************************\n# IP addresses\n#**************************************************************\n[IP]\n\n#@# 127.0.0.1 or 127.233.122.112   (limited to 255)\nregexp=(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\n\n#**************************************************************\n#\tFLOOR\n#**************************************************************\n[Floor]\n\n#@# \u307026\u968e (26th floor)\nregexp=\u3070$(JP_NUM)\u968e\n\n#@# 26\u968e (26th floor)\nregexp=$(JP_NUM)(\u968e|\u697c)\n\n#@# 9f\nregexp=$(ALL_NUM)f\n\n#**************************************************************\n#\tRating\n#**************************************************************\n[Rating]\n\n#@# \u2605\u306f3 (3 stars)\nregexp=\u2605\u306f?$(ALL_NUM)$(ALL_NUM)?\n\n#@# 5\u3064\u661f (5 stars)\nregexp=$(ALL_NUM)$(ALL_NUM)?\u661f\n\n#@# \u4e00\u6d41 (1st class)\nregexp=$(ALL_NUM)\u6d41\n\n#@# \u30ab\u30c6\u30b4\u30ea\u30fc3 (category 3)\nregexp=\u30ab\u30c6\u30b4\u30ea\u30fc$(ALL_NUM)",
+                  "name": "nonLingEntitiesRegExp"
+               },
+               {
+                  "data": "[Currency]\n\u30c9\u30eb:us$:$\n\uff95\uff70\uff9b:\u20ac\n\u5186:\u00a5\n\u5143:yuans:yuan\n\u00a2:cents:cent\n\n[Percent]\n%:per cent:percent\n\n[Date]\n01:january:jan.:jan\n02:february:feb.:feb\n03:march\n04:april\n05:may\n06:june\n07:july\n08:august:aug.:aug\n09:september:sept.:sept\n10:october:oct.:oct\n11:november:nov.:nov\n12:december:dec.:dec\n\n[Weights_Measures]\n\u30c6\u30e9\u30d0\u30a4\u30c8:terabytes:terabyte:tb\n\u30ae\u30ac\u30d0\u30a4\u30c8:gigabytes:gigabyte:gb\n\u30ad\u30ed\u30d0\u30a4\u30c8:kilobytes:kilobyte:kb\n\u30e1\u30ac\u30d0\u30a4\u30c8:megabytes:megabyte:mb\n\u30d0\u30a4\u30c8:bytes:byte\n\n\n\n[Digit]\n\u96f6:num:0\n\u4e00:num:1\n\u4e8c:num:2\n\u4e09:num:3\n\u56db:num:4\n\u4e94:num:5\n\u516d:num:6\n\u4e03:num:7\n\u516b:num:8\n\u4e5d:num:9\n\u5341:powprefix:1\n\u767e:powprefix:2\n\u5343:powprefix:3\n\u4e07:powprefix:4\n\u5104:powprefix:8\n\u5146:powprefix:12\n\u4eac:powprefix:16\n\n#################\nnaught:num:0\nnought:num:0\nzero:num:0\none:num:1\nfirst:num:1\ntwo:num:2\nsecond:num:2\nthree:num:3\nthird:num:3\nfour:num:4\nfive:num:5\nfifth:num:5\nsix:num:6\nseven:num:7\neight:num:8\neighth:num:8\nnine:num:9\nninth:num:9\nten:num:10\neleven:num:11\ntwelve:num:12\ntwelfth:num:12\nthirteen:num:13\nfifteen:num:15\neighteen:num:18\nninteen:num:19\n#takes care of the regular teens\nteen:suffix:10\ntwenty:num:20\ntwentieth:num:20\nthirty:num:30\nthirtieth:num:30\nforty:num:40\nfortieth:num:40\nfourty:num:40\nfourtieth:num:40\nfifty:num:50\nfiftieth:num:50\nsixty:num:60\nsixtieth:num:60\nseventy:num:70\nseventieth:num:70\neighty:num:80\neightieth:num:80\nninety:num:90\nninetieth:num:90\nninty:num:90\nhundred:powprefix:2\nthousand:powprefix:3\nmillion:powprefix:6\nmilion:powprefix:6\nmil:powprefix:6\nmln:powprefix:6\nm:powprefix:6\nmilliard:powprefix:9\n#milliard:prefix:1000000000\n#   XXXion These vary depending on country: US= (x+1)*3; GB= x*6\nbillion:powprefix:9\nbil:powprefix:9\nb:powprefix:9\nbln:powprefix:9\nbilliard:powprefix:15\ntrillion:powprefix:12\ntrilliard:powprefix:21\n#quadrillion:powprefix:4\n#quadrilliard:prefix:10**27\n#quintillion:powprefix:5\n#quintilliard:prefix:10**33\n#sextillion:powprefix:6\n#sextilliard:prefix:10**39\n#septillion:powprefix:7\n#septilliard:prefix:10**45\n#octillion:powprefix:8\n#octilliard:prefix:10**51\n#nonillion:powprefix:9\n#nonilliard:prefix:10**57\n#decillion:powprefix:10\n#decilliard:prefix:10**63\n#undecillion:powprefix:11\n#undecilliard:prefix:10**69\n#duodecillion=>[\\&powprefix:12\n#duodecilliard:prefix:10**75\n#tredecillion:powprefix:13\n#tredecilliard:prefix:10**81\n#quattuordecillion:powprefix:14\n#quattuordecilliard:prefix:10**87\n#quindecillion:powprefix:15\n#quindecilliard:prefix:10**93\n#sexdecillion:powprefix:16\n#septendecillion:powprefix:17\n#octodecillion:powprefix:18\n#novemdecillion:powprefix:19\n#vigintillion:powprefix:20\n#unvigintillion:powprefix:21\n#duovigintillion:powprefix:22\n#some use this spelling\n#duvigintillion:powprefix:22\n#trevigintillion:powprefix:23\n#quattuorvigintillion:powprefix:24\n#quinvigintillion:powprefix:25\n#sexvigintillion:powprefix:26\n#septenvigintillion:powprefix:27\n#octovigintillion:powprefix:28\n#novemvigintillion:powprefix:29\n#trigintillion:powprefix:30\n#This process can be continued indefinitely but one has to stop\n#somewhere.--A Dictionary of Units of Measurement\n#centillion:powprefix:100\n#googol:googol\n#googolplex:googolplex\n#negative:invert:0\n#minus:invert:0\n#score:prefix:20\n#gross:prefix:12*12\n#dozen:prefix:12\n#bakersdozen:prefix:13\n#bakerdozen:prefix:13\n#This n program written on the day\n#eleventyone:num:111]\n#FOTR released.\n#eleventyfirst:num:111]\n#ignore's':at the end of aw ord:\n#easy pluralization of dozens:etc.\ns:sub:0\n#same for 'es'; for googolplexes:etc.\nes:sub:0\n#ignore 'th':for cardinal nums\nth:sub:0",
+                  "name": "nonLingEntitiesNorm"
+               },
+               {
+                  "data": "#name\tLanguage\tPoS\nUserName\t0\ts\nHashtag\t0\ts\nIP\t0\ts\nurl\t0\ts\nemail\t0\ts\nPhoneNumber\t0\ts\nSocialSecurityNumber\t0\ts\nCurrency\t0\ts\nOrganization\t0\ts\nAge\t0\ts\nDate\t0\ts\nFrequency\t0\ts\nTime\t0\ts\nDuration\t0\ts\nRefTime\t0\ts\nPercent\t0\tn\nDistance\t0\ts\nWeights_Measures\t0\ts\nFloor\t0\tn\nRating\t0\tn\n#Digit\t0\ts",
+                  "name": "nonLingEntitiesConf"
+               }
+            ],
+            "name": "nonLingEntities"
+         },
+         {
+            "childs": [
+               {
+                  "data": "#---------------------------------------------------------------------------------#\n# Part-of-speech codes used\/usable for Japanese Basic Resources\n#---------------------------------------------------------------------------------#\n\n\n# a = adjective\n# b = adverb (not used in the Japanese Basic template)\n# c = preposition\n# d = determiner\n# f = first name\n# i : initial with dot (e.g. \"W.\")\n# m = noun (n) or unknown (u)\n# n = noun\n# o = coordination\n# s = stop word (to prevent extraction)\n# u = unknown\n# v = verb (any verb, infinitive\/gerund\/3rd person singular\/preterite)  (not used in the English Basic template)\n# x = auxiliary verb\n\n#@# \tCompound verbs and adjectives\n#@# \t\u7c21\u5358\u306b\u6c5a\u308c\u308b (gets dirty easily)\n10v\n#@#\t\u7c21\u5358\u306b\u50b7\u304c\u3064\u304f (easily scratched)\n10m0v\n#@#\t\u30b9\u30af\u30e9\u30c3\u30c1\u3059\u308b\u3053\u3068\u306f\u7c21\u5358 (easy to scratch)\nvx001\n#@#\t\u6301\u3063\u3066\u3044\u304f\u306e\u306f\u7c21\u5358 (easy to bring)\nv01\n#@# \t\u898b\u3064\u3051\u308b\u306e\u304c\u7c21\u5358 (easy to find)\nv1\n#@# \t\u4f7f\u7528\u65b9\u6cd5\u306f\u7c21\u5358 (easy to use)\nmm01\n#@#\t\u64cd\u4f5c\u304c\u7c21\u5358 (easy to operate)\nm1\n#@#\t\u826f\u304f\u306a\u3044 not good\na2\n#@#\t\u805e\u3053\u3048\u306a\u3044 (inaudible)\nv2\n\n#@#\t\u5fb3\u4ec1\u5929\u7687 (Emperor Naruhito)\nmt\n#@#\t\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u6a5f\u80fd playlist function)\nmmm\n#@#\t\u5927\u7d71\u9818\u306e\u8a95\u751f (birth of the president)\nmcm\n#@#\t\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8 (= \u30d7\u30ec\u30a4 + \u30ea\u30b9\u30c8) (playlist)\nmm\n#@#\t\u30e9\u30f3\u30c0\u30e0\u518d\u751f (= \u30e9\u30f3\u30c0\u30e0 + \u518d\u751f) (random play)\nam\n#@#\t\u30e9\u30f3\u30c0\u30e0\u518d\u751f\u30aa\u30d7\u30b7\u30e7\u30f3 (= \u30e9\u30f3\u30c0\u30e0 + \u518d\u751f + \u30aa\u30d7\u30b7\u30e7\u30f3) (random play option)\namm\n#@#\t\u826f\u3044\u82e5\u3044\u4eba\u3005 (= \u826f\u3044+ \u82e5\u3044 + \u4eba\u3005) (good young people)\naam\n#\t\u518d\u751f (play)\nn\n#@#\tcd\nu\n#@#\t\u30e9\u30f3\u30c0\u30e0\t (random)\na\n#@#\t\u53d7\u3051\u53d6\u308b (receive)\nv\n#@#\t\u3055\u3089\u306b (moreover)\n#b",
+                  "name": "languageHandlingExtractionPatterns"
+               },
+               {
+                  "data": "\u304a:s\n\u3042\u308c:s\n^^:s9\n#\u300c:s9\n#\u300d:s9\n\u6975:s\n#\u611f\u3058\u305f\u304c: I felt\/feeling\n\u611f\u3058\u305f\u304c:s\n\u611f\u3058\u308b:s\n\u611f\u3058:s\n\u306b\u611f\u3058\u308b:s\n#\u305f\u6c17\u304c\u3059\u308b: I feel like\n\u305f\u6c17\u304c\u3059\u308b:9\n\u304a\u98a8\u5442:n\t\t#bath\n###############\n\u306b\u52a0\u3048:s\n\u52a0\u3048:s\n#############\n\u307b\u3069\u6642\u9593\u304c\u53d6\u3089\u308c\u3066\u3057\u307e\u3044\u307e\u3057\u305f:n\n\u306e:sc\n# \u3059\u308b\u305f\u3081\u306e (in order to)\n\u3059\u308b\u305f\u3081\u306e:sc\n#######Determiners\n# \u3044\u304f\u3064\u304b (some)\n\u3044\u304f\u3064\u304b:s\n# \u3044\u304f\u3064\u304b\u306e (several)\n\u3044\u304f\u3064\u304b\u306e:s\n#lots of\n\u305f\u304f\u3055\u3093\u306e:s\n#lots\n\u305f\u304f\u3055\u3093:s\n\u591a\u304f\u306e:s\n\u591a\u304f:s\n##\tAuxiliaries (x) and not verb (v)\n\u3059\u308b:sx\n\u3042\u308a:sx\n\u6301\u3063:sx\n\u6301\u3064:sx\n\u3067\u304d:sx\n\u3042\u308b:sx\n\u3044\u308b:sx\n\u3067\u306f\u3042\u308a\u307e\u305b\u3093:sx\n\u304c\u5fc5\u305a\u3057\u3082:sx2\n###################\n##\tAdverbs\n\u4fe1\u3058\u3089\u308c\u306a\u3044\u307b\u3069:sb\n\u308f\u305a\u304b:sb\n\u308f\u305a\u304b\u306b:sb\n\u975e\u5e38\u306b:sb\n\u975e\u5e38:s\n\u5c11\u3057:s\n# \u3059\u304e\u308b (too much)\n\u3059\u304e\u308b:s\n#\u3059\u304e\u308b\u3068\u3042\u307e\u308a\u306b\u3082:s\n\u305d\u306e\u7d50\u679c:sb\n###################\n#@# Person names\n\u3055\u3093:st\n\u5929\u7687:nt\n\u5fb3\u4ec1:n\n###################\n\u6238\u5916\u3067:s\n####################################\n# \tFor compound adjectives\n# easy\n\u7c21\u5358:s1\n\u5bb9\u6613:s1\n\u65b9\u304c\u7c21\u5358:s1\n\u304c\u7c21:a1\n\u5bb9\u6613\u3055:s1\n\u697d:s1\n\u304c\u7c21\u5358:s1\n\u306e\u304c\u7c21\u5358:s1\n\u3059\u308b\u306e\u304c\u7c21\u5358:s1\n\u3084\u3059\u304f:s1\n# difficult\n\u96e3\u3057\u3044:s1\n\u96e3\u3057\u3044\u3067\u3059:s1\n\u56f0\u96e3:s1\n\u3059\u308b\u306e\u304c\u96e3\u3057\u3044:s1\n\u3059\u308b\u3053\u3068\u3092\u56f0\u96e3:s1\n#\u304c\u96e3\u3057\u3044: is difficult\n\u304c\u96e3\u3057\u3044:s1\n#\u304c\u96e3\u3057:difficult\n\u304c\u96e3\u3057:s1\n#\u306f\u96e3\u3057\u3044: is hard\n\u306f\u96e3\u3057\u3044:s1\n## Particles\n\u3057:s\n\u306e\u304c:s0\n\u3053\u3068\u304c:s0\n\u4f59\u308a\u306b\u3082:s0\n\u306b\u306f\u4f59\u308a\u306b\u3082:s0\n\u3059\u308b\u306b\u306f\u4f59\u308a\u306b\u3082:s0\n\u3059\u308b\u3053\u3068\u306f:s0\n\u306b:s0\n\u306f:s0\n\u306e\u306f:s0\n\u3053\u3068:s0\n\u3059\u308b\u306e\u306f:s0\n\u3059\u308b\u306e\u3082:s0\n\u3059\u308b\u3053\u3068\u304c:s0\n\u304c:s0\n\u3053\u3068\u306f:s0\n\u3067\u306f:s0\n# \u3055\u3082\u306a\u3044\u3068 (otherwise)\n\u3055\u3082\u306a\u3044\u3068:s\n\u306f\u5168\u304f:s\n###########################\n#@# \u53ef\u80fd\u3067\u306a\u3044 (Impossible)\n\u53ef\u80fd\u3067\u306a\u3044:1\n\u4e0d\u53ef\u80fd:1\n\u3067\u304d\u307e\u305b\u3093:1\n\u306a\u304f:1\n#@# \u53ef\u80fd\u3067 possible\n\u53ef\u80fd\u3067:1\n\u3067\u304d\u308b:sx1\n######### Not\n# \u3067\u306f\u306a\u304f (not)\n\u3067\u306f\u306a\u304f:s2\n#\u3067\u304d\u306a\u3044\t (cannot)\n\u3067\u304d\u306a\u3044:s2\n# \u306a\u3057 (none)\n\u306a\u3057:s2\n# \u304c\u3042\u308a\u307e\u305b\u3093 (There is not)\n\u304c\u3042\u308a\u307e\u305b\u3093:s\n# \u304c\u306a\u3044 (There is no)\n\u304c\u306a\u3044:s2\n\u306f\u306a\u3044:s2\n\u3042\u308a\u307e\u305b\u3093:s\n\u3044\u306f\u306a\u3044:s2\n# \u306a\u3044 (do not have)\n\u306a\u3044:s2\n# \u304c\u5fc5\u305a\u3057\u3082 (is not necessarily)\n\u304c\u5fc5\u305a\u3057\u3082:s\n# \u3067\u306f\u306a\u3044 (is not)\n\u3067\u306f\u306a\u3044:s\n# \u304f\u306a\u3044 (not)\n\u304f\u306a\u3044:s2\n# \u3057\u307e\u305b\u3093 (doesn't)\n\u3057\u307e\u305b\u3093:s2\n\u307e\u305b\u3093:s2\n\u307e\u305b\u3093\u3067\u3057\u305f:s2\n\u306a\u304b\u3063\u305f:s\n\u306f\u7121\u3044\u306b\u7b49\u3057\u3044:s\n\u7b49\u3057\u3044:s\n\u306a\u304b\u3063:s\n\u7121\u304b\u3063:s\n\u306b\u3055\u308c\u3066\u3044\u306a\u3044:s\n####################################\n\u30b7\u30e3\u30ec\u305f\u30c7\u30b6\u30a4\u30f3:s\n\u4f7f\u7528\u65b9\u6cd5:v\n#\u8f38\u9001:n\n\u3067\u306f\u3042\u308a\u307e\u305b\u3093:s\n\u3059\u3079\u3066:s\n\u3044:s\n\u304b\u3064:s\n\u306f\u308b\u304b\u306b:s\n\u307e\u305f:sb\n\u305d\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u3068\u601d\u3044\u307e\u3059:s\n\u304b\u3082\u3057\u308c\u306a\u3044:s\n\u30b0\u30c3\u30c9:s\n\u305f\u3081\u306b:s\n\u306e\u305f\u3081\u306b:s\n\u3068\u3066\u3082:s\n\u5927\u304d\u3044\u3067\u3059:s\n\u3067\u3059:sx\n\u4e0a\u3067:s\n\u9593:s\n##########\n# \u3053\u3068\u304c\u3067\u304d\u307e\u3059 (can)\n\u3053\u3068\u304c\u3067\u304d\u307e\u3059:sx2\n##############\n\u30d0\u30c3\u30c6\u30ea\u30fc\u30fb\u30d1\u30ef\u30fc:n\n##########\n\u3059\u308b\u306e:v\n\u3092\u4e26\u3079\u66ff\u3048\u308b\u3053\u3068\u304c:v\n\u4f7f\u3044\u65b9:v\n\u9001\u3059\u308b\u306e:v\n\u3078:s\n#######\n# I thought\n\u3068\u601d\u3063\u305f:s\n# thought\n\u601d\u3063:s\n\u306b\u3068\u3066\u3082:s\n\u3067\u304d\u305f\u306f\u305a:s\n\u306f\u305a:s\n\u3055:s\n\u3042\u308c\u3070\u3044\u3044:s\n\u304c\u3042\u308c\u3070\u3044\u3044:s\n###########\n####\u3088\u308a: than\n\u3088\u308a:s\n######\n# \u306a\u3044\u306a\u3089 (if not)\n\u306a\u3044\u306a\u3089:s\n######\n\u305d\u3046:s\n\u3042\u307e\u308a:s\n\u79c1\u304c\u601d\u3046\u3088\u3046\u306b:s\n\u305d\u308c\u3067\u3082:s\n\u6e08\u307e\u3057:s\n\u3068\u611f\u3058\u307e\u3057\u305f:s\n\u307e\u3057\u305f:s\n\u4e00\u70b9:s\n\u611f\u3058\u307e\u3057\u305f:s\n\u306a\u3063:s\n\u306e\u305f\u3081:s\n\u305f\u3081:s\n\u5927\u304d\u304b\u3063:s\n\u3042\u3068:s\n\u6539\u5584\u3057\u3066\u307b\u3057\u3044\u3067\u3059\u306d:s\n\u3082\u306e:s\n\u4ee5\u4e0a:s\n\u3057\u3066\u3044\u307e:s\n\u306e\u308f\u308a\u306b:s\n\u3084\u3084:s\n\u306f\u3084\u3084:s\n\u5e83\u3051\u308c:s\n\u305b\u3044:s\n\u666e\u901a:s\n\u5185:s\n\u3088\u304f:s\n\u305f:s\n\u304b\u306a\u308a:s\n##### \u307e\u3057\u305f: I did (with \u307e\u3057 better)\n\u307e\u3057\u305f:sx\n#\u3057\u307e\u3057\u305f shimashita I did\n\u3057\u307e\u3057\u305f:sx\n\u901a\u3058\u3066:s\n\u901a\u3058:s\n\u3060\u3068\u601d\u3044:s\n\u3055\u308c\u3066\u3044\u308b\u3068\u601d\u3044\u307e\u3059\u304c:s\n# \u601d\u3044 (thought)\n\u601d\u3044:s\n\u51fa\u308b:s\n\u3044\u3046:s\n\u3053\u3068\u3092\u8003\u3048\u308c\u3070:s\n\u3082\u3068\u3063\u3066\u3082:s\n\u3066\u3082:s\n\u306a\u3044\u9650\u308a:s\n\u826f\u304f\u306a\u308b\u306f\u305a\u3067\u3042\u308b:s\n\u3067\u304d\u308b\u304b\u3082\u3057\u308c\u306a\u3044:s\n\u6975\u307e\u308a\u306a\u3044:s\n\u51fa:s\n\u81ea\u8eab:s\n\u4e00\u70b9:s\n\u898b\u3089\u308c:sv\n########\n#\u3059\u308b (do)\n\u3059\u308b:svx\n\u6301\u3063:s\n######### \u3053\u3068\u304c\u3067\u304d\u307e\u3057\u305f: I was able to\n\u3053\u3068\u304c\u3067\u304d\u307e\u3057\u305f:s2\n## \u3057\u307e\u3057\u305f (did)\n\u3057\u307e\u3057\u305f:s2\n#\u9b45\u529b (charm)\n\u9b45\u529b:s\n#\u304f\u3089\u3044 (about)\n\u304f\u3089\u3044:s\n\u304c:s0\n\n##########\n#beautiful\n\u304d\u308c\u3044:a\n\u304d\u308c:s\n###########\n#\u826f\u304f\u306a\u3044 not good\n\u306a\u3044:s2\n\u304c\u306a\u3044:s2\n\u306e\u306a\u3044:s2\n\u5341\u5206\u306a\u3044:s2\n\u306f\u306a\u3044:s2\n\u3044\u306f\u306a\u3044:s2\n\u3042\u308a\u307e\u305b\u3093:s2\n\u3067\u306a\u3044:s2\n\u3067\u306f\u306a\u3044:s2\n\u3067\u306f\u306a\u304f:s2\n\u304c\u3042\u308a\u307e\u305b\u3093:s2\n\u3067\u304d\u307e\u305b\u3093:s2\n\u3058\u3083\u3042\u308a\u307e\u305b\u3093:s2\n\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093:s2\n\u306f\u3042\u308a\u307e\u305b\u3093:s2\n\u306a\u3057:s\n\u5341\u5206\u306f\u3042\u308a\u307e\u305b\u3093:s2\n\u3042\u307e\u308a\u3042\u308a\u307e\u305b\u3093:s2\n\u305d\u3046\u304a\u3093\u306f\u3042\u307e\u308a\u3042\u308a\u307e\u305b\u3093:s2\n\u3067\u304d\u306a\u3044:s2\n\u3067\u306f\u3042\u308a\u307e\u305b\u3093:s2\n####################################\n\u4e0a\u3067:s\n\u4e0a:s\n\u591a\u304f:s\n\u591a\u304f\u306e:s\n\u305f\u304f\u3055\u3093\u306e:s\n\u305f\u304f\u3055\u3093:s\n#######################\n# Too\n\u3059\u304e:s",
+                  "name": "languageHandlingForcedDefinitions"
+               },
+               {
+                  "data": "",
+                  "name": "languageHandlingAbbreviations"
+               }
+            ],
+            "name": "languageHandling"
+         }
+      ],
+      "annotation": "",
+      "dateTime": "2024-09-26 23:48:59.0",
+      "exportLanguage": "Japanese",
+      "isShipped": true,
+      "isTemplate": true,
+      "language": "ja",
+      "libraries": [
+         {
+            "dateTime": "2024-09-26 23:43:46.0",
+            "id": 1,
+            "language": "ja",
+            "name": "Core Library (Japanese)",
+            "patterns": "## Text Link Analysis Rules for Opinions Resources\n\n## Macros used by rules\n\n[macro]\nname=mTopic\nvalue=($Unknown|$Product|$Person|$Location|$Organization)\n\n[macro]\nname=mTimePhrase\nvalue=($Time|$Frequency|$RefTime|$Date|$Duration)\n\n[macro]\nname=mNonLingEntities\nvalue=($Currency|$url|$email|$PhoneNumber|$SocialSecurityNumber|$Date|$Time|$Percent|$Weights_Measures|$RefTime|$Age|$Frequency)\n\n[macro]\nname=mNot\nvalue=(\u3067\u306f\u3042\u308a\u307e\u305b\u3093|\u306a\u3057|\u306a\u3044|\u3067\u304d\u307e\u305b\u3093|\u3067\u306f\u306a\u304f|\u3058\u3083\u3042\u308a\u307e\u305b\u3093|\u3042\u308a\u307e\u305b\u3093|\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u307e\u305b\u3093|\u306f\u3042\u308a\u307e\u305b\u3093|\u306f\u306a\u3044|\u3082\u306a\u3044|\u5341\u5206\u306f\u3042\u308a\u307e\u305b\u3093|\u3042\u307e\u308a\u3042\u308a\u307e\u305b\u3093|\u305d\u3046\u304a\u3093\u306f\u3042\u307e\u308a\u3042\u308a\u307e\u305b\u3093|\u3044\u306f\u306a\u3044|\u304c\u5fc5\u305a\u3057\u3082|\u304c\u5fc5\u305a\u3057\u3082|\u7121\u3057|\u304f\u306a\u3044|\u3066\u3044\u306a\u3044|\u306f\u7121\u3044|\u3067\u304d\u307e\u305b\u3093|\u3067\u306f\u306a\u3044|\u3067\u3082\u306a\u304f|\u306a\u304b\u3063\u305f\u306e\u3067|\u306a\u304b\u3063|\u7121\u304b\u3063|\u3066\u3044\u306a\u3044\u3068\u306e\u3053\u3068|\u304c\u3042\u308a\u307e\u305b\u3093|\u3068\u3044\u3046\u306e\u306f\u305d\u3093\u306a\u306b\u3042\u308a\u307e\u305b\u3093|\u307e\u305b\u3093)\n\n[macro]\nname=mSEP\nvalue=($SEPJA|$SEP)\n\n######################################################\n\n#@#\tEmpty words (=grammatical words)\n[macro]\nname=mEmpty\nvalue=($mDet|$mBe|$mHave|$mAdverb|$mDo|$mSupport|$mAll|$mPrep|$mParticle|$mPronoun|\u304c|\u306a|\u304f|\u3053\u3068\u304c|\u3084\u3084|\u306e\u305f\u3081\u306b\u3068\u3066\u3082\u306f|\u3067\u306f|\u3082|\u3068\u306f|\u3053\u3068\u306f|\u3067\u3057\u305f\u306e\u3067|\u3066\u3044\u305f\u306e\u306f\u307e\u305f\u3082|\u3068\u3057\u3066\u306f)\n\n[macro]\nname=mTooMuch\nvalue=(\u4f59\u308a\u306b\u3082|\u306b\u306f\u4f59\u308a\u306b\u3082|\u3059\u308b\u306b\u306f\u4f59\u308a\u306b\u3082|\u3059\u304e\u307e\u3059|\u3042\u307e\u308a\u306b|\u3042\u307e\u308a\u306b\u3082|\u3059\u304e\u308b|\u3059\u304e\u308b\u3068\u3042\u307e\u308a\u306b\u3082|\u306b\u3042\u307e\u308a\u306b\u3082\u591a\u304f\u306e)\n\n[macro]\nname=mParticle\nvalue=(\u306f|\u306e\u306f|\u306e\u304c|\u306f,|\u3078)\n\n[macro]\nname=mPronoun\nvalue=(\u308f\u305f\u3057\u306f|\u308f\u305f\u3057|\u3042\u308c)\n\n[macro]\nname=mThan\nvalue=(\u3088\u308a\u3082|\u3088\u308a)\n\n[macro]\nname=mMore\nvalue=(\u3082\u3063\u3068|\u306f\u3088\u308a|\u3088\u308a\u591a\u304f\u306e|\u3082\u3046\u5c11\u3057)\n\n[macro]\nname=mMost\nvalue=(\u6700\u3082|\u307b\u3068\u3093\u3069)\n\n[macro]\nname=mCouldBe\nvalue=(\u306a\u308a\u3046\u308b\u3068\u601d\u3044\u307e\u3059|\u305d\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u3068\u601d\u3044\u307e\u3059|\u304b\u3082\u3057\u308c\u306a\u3044|\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044|\u304b\u3082\u3057\u308c\u306a\u3044|\u306a\u308b\u304b\u3082\u3057\u308c|\u3067\u304d\u305f\u306f\u305a|\u3042\u308c\u3070\u3044\u3044|\u306b\u3067\u304d\u305f\u306f\u305a|\u3060\u308d\u3046\u306d)\n\n[macro]\nname=mHasTo\nvalue=(\u3057\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093|\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3053\u3068)\n\n#@#\tDeterminers\n[macro]\nname=mDet\nvalue=(\u3053\u308c|\u305d\u308c|\u3053\u308c\u3089|\u305d\u308c\u3089\u306e|\u79c1\u306e|\u3042\u306a\u305f\u306e|\u5f7c\u306e|\u5f7c\u5973|\u79c1\u305f\u3061\u306e|\u5f7c\u3089\u306e|\u3053\u306e|\u304a)\n\n#@#\tCoordination\n[macro]\nname=mCoord\nvalue=(\u3068|\u305d\u3057\u3066|\u307e\u305f\u306f|\u304b\u3064|\u304a\u3088\u3073|&|$SLASH|\u3066|\u3067\u307e\u3042|\u4e14\u3064|\u3082|\u3084|\u53ca\u3073|\u3060\u304c|\u3060\u304c\u3001)\n\n#@#\tAuxiliary Have\n[macro]\nname=mHave\nvalue=(\u6301\u3063|\u6301\u3064|\u3092\u6301\u3063\u3066\u3044\u307e\u3059)\n\n#@#\tAuxiliary Be\n[macro]\nname=mBe\nvalue=(\u3067\u3059|\u3060\u3063\u305f|\u3053\u308c\u304c|\u3042\u308b|\u3044\u308b|\u30b5\u30a4\u30ba|\u3067\u3042\u308b|\u3082\u3042\u308b\u306e\u3067|\u3044\u307e\u3059|\u3055\u308c|\u3057\u3066\u3044\u305f|\u3067\u3057\u305f|\u3053\u308c\u306f\u5b9f\u306b|\u304c\u3042\u308a\u307e\u3057\u305f\u304c)\n\n#@#\tDo\n[macro]\nname=mDo\nvalue=(\u3057\u3066\u3044\u308b|\u3057\u3066\u3044)\n\n#@#\tSupport verbs\n[macro]\nname=mSupport\nvalue=(\u3088\u3046\u3060|\u306a\u3088\u3046\u3067\u3059|\u5206\u304b\u308b|\u304c\u3042\u308b\u3068\u601d\u3046|\u3055\u308c\u305f|\u3059\u308b|\u3059\u308b\u306b\u306f|\u304b\u3082\u3057\u308c|\u306b\u306a\u3063\u305f|\u3055\u308c\u3066\u304a\u308a|\u3055\u308c\u3066\u3044\u3066\u3053\u308c\u3082|\u305f\u6c17\u304c\u3059\u308b|\u3068\u3044\u3046|\u306a\u3063\u3066\u304d\u3066\u3044\u307e\u3057\u305f|\u3055\u308c\u307e\u3057\u305f)\n\n#@#\tSome usual Adverbs\n[macro]\nname=mAdverb\nvalue=(\u3068\u3066\u3082|\u975e\u5e38\u306b|\u7d76\u5bfe\u306b|\u3044\u3064\u3082|\u7279\u306b|\u7d76\u5bfe\u306b|\u308f\u305a\u304b|\u308f\u305a\u304b\u306b|\u5c11\u3057|\u305d\u308c\u3067|\u306f\u308b\u304b\u306b|\u307e\u305f|\u304b\u306a\u308a|\u306f\u3068\u3066\u3082|\u304a\u305d\u3089\u304f|\u4fe1\u3058\u3089\u308c\u306a\u3044|\u4fe1\u3058\u3089\u308c\u306a\u3044\u307b\u3069|\u672c\u5f53\u306b|\u5fc5\u305a\u3057\u3082|\u6050\u3089\u304f|\u3092\u5c11\u3057|\u306f\u3061\u3087\u3063\u3068|\u306f\u3001\u3068\u3066\u3082|\u6642\u3005|\u304c\u3061\u3087\u3063\u3068|\u305f\u3060\u3057|\u3053\u3053\u306e|\u3053\u3053|\u306f\u672c\u5f53\u306b|\u306a\u3053\u3068\u306b|\u3060\u3051\u306f|\u306a\u3069\u306f|\u3053\u3068\u306b|\u3044\u3064\u307e\u3067\u3082|\u305d\u306e\u7d50\u679c|\u306f\u3059\u3067\u306b|\u306f\u304b\u306a\u308a|\u307e\u3060|\u3068\u306a\u305c\u304b|\u306b\u52a0\u3048|\u3082\u3068\u3066\u3082|\u306f\u3042\u307e\u308a|\u305f\u3060|\u3061\u306a\u307f\u306b|\u3082\u3068\u3063\u3066\u3082|\u306f\u5c11\u3005|\u305f\u304c|\u3067\u3088\u3046\u3084\u304f|\u306e\u3067|\u6975|\u3067\u3057\u3087\u3046|\u5168\u304f|\u3057\u304b\u3082|\u5c11\u3057\u305a\u3064|\u3068\u3063\u3066\u3082|\u3082\u4f55\u3068\u304b|\u3057\u304b\u3057|\u3060\u3051\u306b|\u3059\u3067\u306b|\u307b\u3069|\u3059\u3050)\n\n[macro]\nname=mMany\nvalue=(\u591a\u304f|\u591a\u304f\u306e|\u305f\u304f\u3055\u3093|\u305f\u304f\u3055\u3093\u306e|\u306e\u591a\u304f)\n\n[macro]\nname=mAsExpected\nvalue=(\u79c1\u304c\u601d\u3046\u3088\u3046\u306b)\n\n[macro]\nname=mIfNot\nvalue=(\u306a\u3044\u306a\u3089)\n\n#@#\tMost common Prepositions\n[macro]\nname=mPrep\nvalue=(\u306b|\u306e|\u3092|\u306b\u306f|\u3067|\u305f\u3081|\u304b\u3089|\u4e0a\u3067|\u9593\u3067|\u3059\u308b\u305f\u3081\u306e|\u306e\u305f\u3081\u306e|\u3068\u306e|\u307e\u3067|\u304b\u3089\u306e|\u3078\u306e|\u3067\u306e|\u901a\u3058\u3066|\u3092\u901a\u3058\u3066|\u306b\u3042\u308b|\u304b\u3089\u51fa\u308b|\u3053\u3068\u3092\u8003\u3048\u308c\u3070|\u306b\u3064\u3044\u3066)\n\n[macro]\nname=mAll\nvalue=(\u3059\u3079\u3066|\u3092\u3059\u3079\u3066|\u306e\u3059\u3079\u3066\u3092)\n\n[macro]\nname=mAs\nvalue=(\u306e\u3088\u3046\u306b)\n\n[macro]\nname=mEvenMore\nvalue=(\u4e00\u5c64)\n\n[macro]\nname=mWouldBeGood\nvalue=(\u304b\u3063\u305f\u3089\u6700\u9ad8\u3067\u3057\u305f|\u3051\u308c\u3070|\u3067\u304d\u308b\u304b\u3082\u3057\u308c\u306a\u3044|\u826f\u304f\u306a\u308b\u306f\u305a\u3067\u3042\u308b)\n\n[macro]\nname=mWouldLike\nvalue=(\u305f\u3044\u3068\u601d\u3044\u307e\u3059|\u3057\u3066\u307b\u3057\u3044\u3067\u3059\u306d)\n\n[macro]\nname=mAlthough\nvalue=(\u307e\u3059\u304c|\u306a\u306e\u306b)\n\n[macro]\nname=mUntil\nvalue=(\u307e\u3067\u3067\u3059|\u306a\u3089)\n\n[macro]\nname=mUnless\nvalue=(\u306a\u3044\u9650\u308a|\u3055\u308c\u306a\u3044\u9650\u308a)\n\n[macro]\nname=mBecause\nvalue=(\u3060\u3063\u305f\u306e\u3067|\u3060\u3063\u305f\u304b\u3089\u3067\u3057\u3087\u3046\u304b)\n\n[macro]\nname=mIf\nvalue=(\u306a\u3089|\u3059\u308c\u3070)\n\n######################\n\n#@#\t\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3082\u96fb\u6c17\u3082\u306a\u3044 (no internet or electricity)\n[pattern(1)]\nname=\"no\" + 2 topics_0001\nvalue=$mTopic $mCoord{0,1} $mTopic @{0,1} $mNot\noutput(1)=$1\\t#1\\t$5\\tNO\noutput(2)=$3\\t#3\\t$5\\tNO\n\n#@#\t\u88c5\u5099\u306a\u3057 (no equipment)\n[pattern(2)]\nname=\"no\" topic_0002\nvalue=$mTopic $mEmpty? $mNot\noutput(1)=$1\\t#1\\t$3\\tNO\n\n#@#\t\u30c7\u30d0\u30a4\u30b9 (device)\n[pattern(3)]\nname=topic_0003\nvalue=$mTopic\noutput(1)=$1\\t#1\n\n#@#\t3\u6b73\u534a (3 years and a half)\n[pattern(4)]\nname=nonLingEntities_0004\nvalue=$mNonLingEntities\noutput(1)=$1\\t#1\n\n",
+            "terms": [
+               {
+                  "form": "\u4fa1\u683c\u306e\u5272",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "form": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u5927\u9678",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30de\u30ab\u30aa",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a2\u30b8\u30a2\u5927\u9678",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6ede\u5728",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3060\u3063\u305f",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30df\u30e3\u30f3\u30de\u30fc",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u3092\u53d7\u3051\u3066\u304f\u308c\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u74b0\u5883\u306f\u7d20\u6674",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30a4\u30bf\u30ea\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u7279\u9577",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u305f\u3081\u306b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u6e05\u6383",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u5229\u7528",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30cf\u30ef\u30a4",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u601d\u308f",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u5024\u6bb5",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "form": "\u304f\u308c",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30b3\u30a6\u30a7\u30fc\u30c8",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30b9\u30b3\u30c3\u30c8\u30e9\u30f3\u30c9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u5171\u548c\u56fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "(r)",
+                  "match": 2,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "&reg;",
+                           "match": 2,
+                           "typeid": 5
+                        },
+                        {
+                           "form": "[r]",
+                           "match": 2,
+                           "typeid": 5
+                        },
+                        {
+                           "form": "\u00ae",
+                           "match": 2,
+                           "typeid": 5
+                        }
+                     ]
+                  },
+                  "typeid": 5
+               },
+               {
+                  "form": "\u5927\u962a\u5e02\u5185",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u4e00\u6cca\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "*\u5929\u7687",
+                  "match": 6,
+                  "typeid": 4
+               },
+               {
+                  "form": "\u30ea\u30d3\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u7686\u3055\u3093",
+                  "match": 0,
+                  "typeid": 7
+               },
+               {
+                  "excluded": true,
+                  "form": ")",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30ef\u30b7\u30f3\u30c8\u30f3dc",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u5357\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u4e2d",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u304d\u305f\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30de\u30eb\u30bf",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "*\u3053\u3068\u304c\u3067\u304d\u307e\u3057\u305f",
+                  "match": 6,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30c9\u30ca\u30a6\u5ddd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30d9\u30eb\u30ae\u30fc",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a4\u30e9\u30af",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "*\u5bbf\u6cca\u3057\u307e\u3057\u305f",
+                  "match": 6,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u90fd\u5185",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6848\u5185\u3055\u308c\u305f\u306e\u306f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "405\u30d5\u30ea\u30fc\u30a6\u30a7",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30e2\u30f3\u30b4\u30eb",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u4ed9\u53f0",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30bd\u30a6\u30eb",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u306b\u3057\u3066\u3044\u305f\u3060\u304d\u307e\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30af\u30ed\u30a2\u30c1\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30b9\u30ea\u30e9\u30f3\u30ab",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3044",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u90e8\u5c4b\u306e\u5e83",
+                  "match": 0,
+                  "typeid": 7
+               },
+               {
+                  "excluded": true,
+                  "form": "\u898b\u305f\u4e2d\u3067",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u4fe1\u3058\u3089\u308c\u306a\u3044\u307b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u524d",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "(c)",
+                  "match": 2,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "&copy;",
+                           "match": 2,
+                           "typeid": 5
+                        },
+                        {
+                           "form": "[c]",
+                           "match": 2,
+                           "typeid": 5
+                        },
+                        {
+                           "form": "\u00a9",
+                           "match": 2,
+                           "typeid": 5
+                        }
+                     ]
+                  },
+                  "typeid": 5
+               },
+               {
+                  "form": "\u30c1\u30ea",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u304b\u306a\u308a",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u6301\u3063\u3066\u884c\u3063",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u671d\u98df\u4ee3",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "form": "\u30d9\u30c8\u30ca\u30e0",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "*\u793e",
+                  "match": 6,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u5909\u3048",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3055",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u5bbf\u6cca\u8cbb",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3057",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u660e\u77f3\u5927\u6a4b",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u305a",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u5fd8\u308c\u7269",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u305b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "*\u3057\u307e\u3057\u305f",
+                  "match": 2,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30c7\u30f3\u30de\u30fc\u30af",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u4ed8\u3044",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3067",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u306a",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30a2\u30d5\u30ea\u30ab",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30b9\u30ed\u30d9\u30cb\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "...",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u6cca\u307e\u3063",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30a4\u30e9\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30c1\u30e5\u30cb\u30b8\u30a2\u5171\u548c\u56fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a8\u30af\u30a2\u30c9\u30eb",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30c1\u30e3\u30c9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u4ed8\u52a0\u4fa1\u5024",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "form": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u304c\u3042\u308c\u3070\u3044\u3044",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u30ea\u30af\u30a8\u30b9\u30c8\u901a\u308a",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u53f0\u6e7e",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u7406\u89e3\u3057\u3066",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30d6\u30eb\u30ac\u30ea\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u308c",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "*\u3055\u3093",
+                  "match": 2,
+                  "typeid": 4
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3042\u308b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30a2\u30eb\u30d0\u30cb\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3063\u305f\u3067\u3059",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u8a00\u308f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30d9\u30cd\u30ba\u30a8\u30e9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30e8\u30fc\u30ed\u30c3\u30d1",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u4e16\u754c\u5404\u56fd\u306e",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a4\u30f3\u30c9\u6d0b",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a6\u30a7\u30fc\u30eb\u30ba",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u805e\u3053\u3048\u308b",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30cf\u30f3\u30ac\u30ea\u30fc",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u4e00\u70b9",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u4fa1\u683c",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u4fa1\u683c\u306e\u308f\u308a",
+                           "match": 9,
+                           "typeid": 2
+                        }
+                     ]
+                  },
+                  "typeid": 2
+               },
+               {
+                  "form": "\u30ec\u30d0\u30ce\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u304b\u3093\u3053\u304f",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u97d3\u56fd",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a2\u30b5\u30a4\u30f3",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u552f\u4e00",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u5317\u6975\u6d77",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u3053\u3093\u306a\u3082\u306e",
+                  "match": 0,
+                  "typeid": 7
+               },
+               {
+                  "excluded": true,
+                  "form": "\u306f\u308b\u304b\u306b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u308f\u305a\u304b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u62d8\u3089",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30c1\u30e3\u30c9\u5171\u548c\u56fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u306a\u306b\u3088\u308a",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u306b\u4f7f\u3044\u307e\u3059",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3044\u308b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30ef\u30b7\u30f3\u30c8\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u307f\u306a\u307f\u30a2\u30e1\u30ea\u30ab",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u5357\u30a2\u30e1\u30ea\u30ab",
+                           "match": 9,
+                           "typeid": 6
+                        },
+                        {
+                           "form": "\u5357\u30a2\u30e1\u30ea\u30ab\u5927\u9678",
+                           "match": 9,
+                           "typeid": 6
+                        },
+                        {
+                           "form": "\u5357\u7c73",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30ed\u30b7\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30b9\u30c8\u30e9\u30b9\u30d0\u30fc\u30b0",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u306a\u308a\u306e\u6d77\u5ce1",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u95a2\u308f\u3089",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u5317\u671d\u9bae",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u304d\u305f\u3061\u3087\u3046\u305b\u3093",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u4f7f\u3063",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30aa\u30bb\u30a2\u30cb\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30ab\u30f3\u30dc\u30b8\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30af\u30a2\u30e9\u30eb\u30f3\u30d7\u30fc\u30eb",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "kl",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "*\u99c5",
+                  "match": 6,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u6301\u3066\u308b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u5bbf\u6cca",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u5bfe\u5fdc\u3057\u3066\u304f\u3060\u3055\u3044\u307e\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u4e9c\u7d30\u4e9c\u5927\u9678",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u7c73\u56fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u8a2a\u3057\u307e\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30db\u30f3\u30b3\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6df1\u30bb\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u5317\u30a2\u30e1\u30ea\u30ab",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u5317\u30a2\u30e1\u30ea\u30ab\u5927\u9678",
+                           "match": 9,
+                           "typeid": 6
+                        },
+                        {
+                           "form": "\u5317\u7c73",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30d5\u30ed\u30f3\u30c8\u306e\u62c5\u5f53\u8005",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u3061\u3085\u3046\u3054\u304f",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u4e2d\u56fd",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u592a\u5e73\u6d0b",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u53c2\u8003\u307e\u3067\u306b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u306a\u3051\u308c",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30cd\u30d1\u30fc\u30eb",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30b9\u30ed\u30d0\u30ad\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u4e88\u7d04\u3057\u3066\u3044\u305f\u306b",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "ibm rational clearcase",
+                  "match": 9,
+                  "typeid": 5
+               },
+               {
+                  "form": "\u30cf\u30a4\u30c1",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3059\u3050",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a2\u30e1\u30ea\u30ab",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30ae\u30ea\u30b7\u30a2",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u30ae\u30ea\u30b7\u30e3",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u5206\u304b\u308b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30d5\u30a3\u30ea\u30d4\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "lisbon",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u5927\u962a\u99c5",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "*\u6c0f",
+                  "match": 2,
+                  "typeid": 4
+               },
+               {
+                  "excluded": true,
+                  "form": "\u307b\u3093\u3068\u3046\u306b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30d5\u30e9\u30f3\u30b9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6771\u5c71",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30e2\u30ed\u30c3\u30b3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3058\u3083",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30aa\u30e9\u30f3\u30c0",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u30cd\u30b6\u30fc\u30e9\u30f3\u30c9",
+                           "match": 9,
+                           "typeid": 6
+                        },
+                        {
+                           "form": "\u30cd\u30fc\u30c7\u30eb\u30e9\u30f3\u30c9",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6238\u5916\u3067",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30b9\u30da\u30a4\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u4ee3\u30e1\u30a4\u30f3",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30a8\u30b8\u30d7\u30c8",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30db\u30a2\u30d2\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "john",
+                  "match": 1,
+                  "typeid": 4
+               },
+               {
+                  "form": "\u518d\u8a2a\u3057\u307e\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30e1\u30ad\u30b7\u30b3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u74b0\u5883\u306f",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30c9\u30ca\u30a6\u5ddd\u306e\u6771",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3042\u3052\u304f",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30e2\u30ed\u30c3\u30b3\u738b\u56fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30e9\u30aa\u30b9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a2\u30f3\u30c9\u30e9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30ea\u30c8\u30a2\u30cb\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a6\u30eb\u30b0\u30a2\u30a4",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30c8\u30eb\u30b3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u5fd8\u308c\u7269\u3092\u81f4\u3057\u307e\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3082\u4f8b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30d0\u30f3\u30b3\u30af",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u306b\u3057\u3066\u304f\u308c\u307e\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u6599\u91d1",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "form": "\u30dd\u30fc\u30e9\u30f3\u30c9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u3092\u53d6\u308a\u307e\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30b1\u30cb\u30e4",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u30b1\u30cb\u30a2",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6771\u4eac",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30d1\u30ca\u30de",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u306b\u6301\u3063\u3066\u304d\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u3092\u6539\u9020\u3057\u3066\u3044\u308b",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30bb\u30eb\u30d3\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30d1\u30e9\u30b0\u30a2\u30a4",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u3072\u304c\u3057\u30c6\u30a3\u30e2\u30fc\u30eb",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30e2\u30eb\u30c7\u30a3\u30d6",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30d9\u30e9\u30eb\u30fc\u30b7",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a4\u30f3\u30c9",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u3044\u3093\u3069",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u90e8\u5c4b\u306e\u5e83\u3055",
+                  "match": 9,
+                  "typeid": 7
+               },
+               {
+                  "excluded": true,
+                  "form": "\u304c\u3042",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u304c\u3042\u308b\u304b\u3089",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u8868\u305b\u307e\u3059",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u88fd\u54c1",
+                  "typeid": 5
+               },
+               {
+                  "form": "\u4e88\u7d04",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30da\u30eb\u30fc",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u884c\u304f\u969b",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u5357\u6975\u6d77",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u304b\u3064",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3082\u62d8\u3089\u305a",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30a8\u30b8\u30d7\u30c8\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30ec\u30fc\u30c8",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "form": "\u30a8\u30fc\u30b2\u6d77",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30bb\u30eb\u30d3\u30a2 \u30e2\u30f3\u30c6\u30cd\u30b0\u30ed",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6cca\u307e\u308a",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30d6\u30fc\u30bf\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a6\u30af\u30e9\u30a4\u30ca",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u5927\u897f\u6d0b",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u6301\u3063",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30b0\u30a2\u30de",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u884c\u304d",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u65e5\u7cfb\u306e\u30d5\u30ed\u30f3\u30c8",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6ce8\u6587",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u65e5\u672c\u30a2\u30a4\u30fb\u30d3\u30fc\u30fb\u30a8\u30e0\u682a\u5f0f\u4f1a\u793e",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "ibm japan, ltd",
+                           "match": 9,
+                           "typeid": 3
+                        }
+                     ]
+                  },
+                  "typeid": 3
+               },
+               {
+                  "form": "\u884c\u304f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30c9\u30a4\u30c4",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30dd\u30eb\u30c8\u30ac\u30eb",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30e9\u30c8\u30d3\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u306a\u3093\u304d\u3087\u304f\u305f\u3044\u308a\u304f",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u5357\u6975\u5927\u9678",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u306b\u307b\u3093",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u306b\u3063\u307d\u3093",
+                           "match": 9,
+                           "typeid": 6
+                        },
+                        {
+                           "form": "\u65e5\u672c",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u652f\u6255\u3063",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u904b\u3093\u3060",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30ab\u30ca\u30c0",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3059\u3079\u3066",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u307e\u3059",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30b3\u30b9\u30c8",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "excluded": true,
+                  "form": "\u307e\u3057",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u8a00\u308f\u305b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30de\u30ec\u30fc\u30b7\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u4fe1\u3058\u3089\u308c\u306a\u3044\u307b\u3069",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30b8\u30e3\u30de\u30a4\u30ab",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u9999\u6e2f",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "hkg",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u307e\u305f",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3068\u611f\u3058\u307e\u3057\u305f",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u7d9a\u51fa",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30a2\u30b8\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30b9\u30a4\u30b9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30ea\u30ad\u30c6\u30f3\u30b9\u30bf\u30a4\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30ed\u30fc\u30de",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u6b63\u76f4\u306a\u3068\u3053\u308d",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30aa\u30fc\u30b7\u30e3\u30f3\u30d5\u30ed\u30f3\u30c8",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30d6\u30e9\u30b8\u30eb",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "on\u306b\u3059\u308b",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u904b\u3093",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u65b9",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30dc\u30b9\u30c8\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "(tm)",
+                  "match": 2,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "&trade;",
+                           "match": 2,
+                           "typeid": 5
+                        },
+                        {
+                           "form": "[tm]",
+                           "match": 2,
+                           "typeid": 5
+                        },
+                        {
+                           "form": "\u2122",
+                           "match": 2,
+                           "typeid": 5
+                        }
+                     ]
+                  },
+                  "typeid": 5
+               },
+               {
+                  "form": "\u304d\u3066",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30a4\u30ae\u30ea\u30b9",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u79c1\u304c\u601d\u3046\u3088\u3046\u306b",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u99d0\u8eca\u6599\u91d1",
+                  "match": 9,
+                  "typeid": 2
+               },
+               {
+                  "form": "\u30bf\u30a4",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a8\u30b9\u30c8\u30cb\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30e2\u30eb\u30c9\u30d0",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u305d\u308c",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u7acb\u5730",
+                  "match": 0,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u7acb\u5730\u4e0a",
+                           "match": 0,
+                           "typeid": 7
+                        }
+                     ]
+                  },
+                  "typeid": 7
+               },
+               {
+                  "form": "\u30a2\u30d5\u30ea\u30ab\u5927\u9678",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2\u6c11\u4e3b\u4eba\u6c11\u5171\u548c\u56fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3082\u4eca\u307e\u3067\u898b\u305f\u4e2d\u3067",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30c1\u30e5\u30cb\u30b8\u30a2",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u30c6\u30e5\u30cb\u30b8\u30a2",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30c1\u30a7\u30b3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u306f\u3066",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "excluded": true,
+                  "form": "\u308b\u304b\u3089",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u30d1\u30ad\u30b9\u30bf\u30f3",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u307f\u306a\u307f\u30a2\u30d5\u30ea\u30ab",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u5357\u30a2\u30d5\u30ea\u30ab",
+                           "match": 9,
+                           "typeid": 6
+                        }
+                     ]
+                  },
+                  "typeid": 6
+               },
+               {
+                  "form": "\u4eac\u90fd",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30eb\u30fc\u30de\u30cb\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u6a5f\u5668",
+                  "typeid": 5
+               },
+               {
+                  "form": "\u30ce\u30eb\u30a6\u30a7\u30fc",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3059\u308b\u306e",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u5927\u962a",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u305f\u306e",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u4e57\u308a\u63db\u3048\u308b",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30a2\u30e9\u30f3",
+                  "match": 6,
+                  "typeid": 4
+               },
+               {
+                  "form": "\u30ad\u30e5\u30fc\u30d0",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3092\u304a\u9858\u3044\u3057\u305f\u3044\u3067\u3059",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u6ede\u5728\u3057\u307e\u3057\u305f",
+                  "match": 9,
+                  "typeid": 1
+               },
+               {
+                  "excluded": true,
+                  "form": "\u96e2\u308c",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               },
+               {
+                  "form": "\u65e5\u672c\u6d77",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30ec\u30f3\u30bf\u30eb\u3057\u307e\u3057",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u30ec\u30f3\u30bf\u30eb\u3057\u307e\u3057\u305f",
+                           "match": 9,
+                           "typeid": 1
+                        }
+                     ]
+                  },
+                  "typeid": 1
+               },
+               {
+                  "form": "\u30d6\u30eb\u30cd\u30a4",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "form": "\u30dc\u30b9\u30cb\u30a2 \u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
+                  "match": 9,
+                  "typeid": 6
+               },
+               {
+                  "excluded": true,
+                  "form": "\u3068\u3066\u3082",
+                  "inflected": true,
+                  "match": 9,
+                  "typeid": 8
+               }
+            ],
+            "types": [
+               {
+                  "annotation": "",
+                  "color": "#663300",
+                  "id": 1,
+                  "name": "Predicate",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "",
+                  "color": "#C22DD5",
+                  "id": 2,
+                  "name": "Budget",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "List of different organizations",
+                  "color": "#8A3FFC",
+                  "id": 3,
+                  "name": "Organization",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Terms relating to individual names",
+                  "color": "#AD6418",
+                  "id": 4,
+                  "name": "Person",
+                  "termDefaults": {
+                     "match": 5
+                  }
+               },
+               {
+                  "annotation": "List of different products",
+                  "color": "#70541B",
+                  "id": 5,
+                  "name": "Product",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "",
+                  "color": "#990099",
+                  "id": 6,
+                  "name": "Location",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "",
+                  "color": "#047CC0",
+                  "id": 7,
+                  "name": "Unknown",
+                  "termDefaults": {
+                     "match": 0
+                  }
+               },
+               {
+                  "annotation": "NoType type",
+                  "color": "#000000",
+                  "id": 8,
+                  "name": "NoType",
+                  "termDefaults": {
+                     "inflected": true
+                  }
+               }
+            ],
+            "version": 20
+         },
+         {
+            "dateTime": "2023-11-16 23:00:55.0",
+            "id": 2,
+            "language": "ja",
+            "name": "Local Library",
+            "patterns": "",
+            "terms": [
+            ],
+            "types": [
+               {
+                  "annotation": "",
+                  "color": "#3333FF",
+                  "id": 1,
+                  "name": "\u65b0\u898f\u30bf\u30a4\u30d7",
+                  "termDefaults": {
+                     "inflected": true,
+                     "match": 0
+                  }
+               },
+               {
+                  "annotation": "NoType type",
+                  "color": "#000000",
+                  "id": 2,
+                  "name": "NoType",
+                  "termDefaults": {
+                     "inflected": true
+                  }
+               }
+            ],
+            "version": 1
+         },
+         {
+            "dateTime": "2024-09-24 02:37:44.0",
+            "id": 3,
+            "language": "ja",
+            "name": "NonLinguisticEntities Library (Japanese)",
+            "patterns": "",
+            "terms": [
+               {
+                  "form": "\u4ee5\u524d",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u4ee5\u524d\u306b\u6bd4\u3079",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u524d\u56de",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u5927\u534a\u306e\u6642\u9593",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u5915\u98df\u6642",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u3053\u308c\u307e\u3067",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u305d\u306e\u9593",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u3057\u3070\u3089\u304f\u3057\u3066",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u59cb\u7d42",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u6bce\u56de",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u671d\u3001\u5915\u3068",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u5f53\u65e5",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u7d50\u5c40",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u6570\u6642\u9593\u5f8c",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u4eca\u5ea6",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u5230\u7740\u65e5\u306b",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "2,3\u5ea6\u3057\u304b",
+                  "match": 9,
+                  "typeid": 5
+               },
+               {
+                  "form": "\u5bbf\u6cca\u306e\u969b",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u4eca\u56de",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u6b21\u56de",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u3053\u308c\u307e\u3067\u305a\u3064",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u4eca\u56de\u521d\u3081\u3066",
+                  "match": 9,
+                  "typeid": 3
+               },
+               {
+                  "form": "\u4f55\u5ea6",
+                  "match": 9,
+                  "synonyms": {
+                     "terms": [
+                        {
+                           "form": "\u4f55\u5ea6\u304b",
+                           "match": 9,
+                           "typeid": 5
+                        }
+                     ]
+                  },
+                  "typeid": 5
+               }
+            ],
+            "types": [
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nAnswers the question \"when\" with a specific date.",
+                  "color": "#91721F",
+                  "id": 1,
+                  "name": "Date",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nAnswers the question \"at what time\".",
+                  "color": "#91721F",
+                  "id": 2,
+                  "name": "Time",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nAnswers the question \"when\" with no specific date.",
+                  "color": "#91721F",
+                  "id": 3,
+                  "name": "RefTime",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nAnswers the question \"how long\".",
+                  "color": "#91721F",
+                  "id": 4,
+                  "name": "Duration",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nAnswers the question \"how often\".",
+                  "color": "#91721F",
+                  "id": 5,
+                  "name": "Frequency",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nAnswers the question \"how old\".",
+                  "color": "#91721F",
+                  "id": 6,
+                  "name": "Age",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nDeals with amounts of money.",
+                  "color": "#91721F",
+                  "id": 7,
+                  "name": "Currency",
+                  "termDefaults": {
+                  }
+               },
+               {
+                  "annotation": "Concepts found by extraction of non-linguistic entities.\nDeals with percentages.",
+                  "color": "#91721F",
+                  "id": 8,
+                  "name": "Percent",
+                  "termDefaults": {
+                     "match": 0
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nDeals with phone numbers.",
+                  "color": "#91721F",
+                  "id": 9,
+                  "name": "PhoneNumber",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nDeals with URLs.",
+                  "color": "#91721F",
+                  "id": 10,
+                  "name": "url",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nDeals with email addresses.",
+                  "color": "#91721F",
+                  "id": 11,
+                  "name": "email",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found by extraction of non-lingusitic entities.\nDeals with Social Security Numbers.",
+                  "color": "#91721F",
+                  "id": 12,
+                  "name": "SocialSecurityNumber",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nDeals with IP addresses.",
+                  "color": "#91721F",
+                  "id": 13,
+                  "name": "IP",
+                  "termDefaults": {
+                     "inflected": true,
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nDeals with weights and measures (e.g., miles, bytes, kilos...).",
+                  "color": "#91721F",
+                  "id": 14,
+                  "name": "Weights_Measures",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nDeals with terms preceeded by @.",
+                  "color": "#91721F",
+                  "id": 15,
+                  "name": "UserName",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "Concepts found mainly by extraction of non-linguistic entities.\nDeals with terms preceeded by #.",
+                  "color": "#91721F",
+                  "id": 16,
+                  "name": "Hashtag",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "",
+                  "color": "#999900",
+                  "id": 17,
+                  "name": "Distance",
+                  "termDefaults": {
+                     "match": 9
+                  }
+               },
+               {
+                  "annotation": "",
+                  "color": "#666600",
+                  "id": 18,
+                  "name": "Stars",
+                  "termDefaults": {
+                     "match": 0
+                  }
+               },
+               {
+                  "annotation": "",
+                  "color": "#666600",
+                  "id": 19,
+                  "name": "Rating",
+                  "termDefaults": {
+                     "match": 0
+                  }
+               },
+               {
+                  "annotation": "NoType type",
+                  "color": "#000000",
+                  "id": 20,
+                  "name": "NoType",
+                  "termDefaults": {
+                     "inflected": true
+                  }
+               }
+            ],
+            "version": 20
+         }
+      ],
+      "name": "Basic Resources (Japanese)",
+      "owner": "aa517821",
+      "patternLibraryId": 1,
+      "version": 1
+   },
+   "templateName": "Basic Resources (Japanese)"
+}
